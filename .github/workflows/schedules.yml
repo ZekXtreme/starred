@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: '0 */12 * * *'
   workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - '.github/workflows/**'
 jobs:
   awesome-stars:
     name: update awesome-stars
@@ -20,4 +24,4 @@ jobs:
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ github.token }}
-      run: starred --username zekxtreme --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
+      run: starred --username zekxtreme --repository starred --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
