@@ -5,427 +5,173 @@
 
 ## Contents
 
-- [Assembly](#assembly)
-- [C](#c)
 - [C#](#c#)
-- [C++](#c++)
 - [CSS](#css)
-- [Clojure](#clojure)
-- [Dart](#dart)
+- [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Go](#go)
 - [HTML](#html)
-- [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Kotlin](#kotlin)
-- [Markdown](#markdown)
 - [Others](#others)
-- [PHP](#php)
 - [Python](#python)
-- [QML](#qml)
-- [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [SCSS](#scss)
-- [Scala](#scala)
 - [Shell](#shell)
-- [Slim](#slim)
+- [Smarty](#smarty)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
-- [Vala](#vala)
 - [Vue](#vue)
-
-## Assembly 
-
-- [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
-
-## C 
-
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [msabramo/pyOpenSSL](https://github.com/msabramo/pyOpenSSL) - Experimental fork of lp:pyopenssl
-- [stub42/pytz](https://github.com/stub42/pytz) - pytz Python historical timezone library and database
-- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-- [Skeli789/Complete-Fire-Red-Upgrade](https://github.com/Skeli789/Complete-Fire-Red-Upgrade) - A complete upgrade for FireRed, including an upgraded Battle Engine.
 
 ## C# # 
 
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
-- [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-
-## C++ 
-
-- [albertlauncher/plugins](https://github.com/albertlauncher/plugins) - Albert plugins
-- [dogecoin/dogecoin](https://github.com/dogecoin/dogecoin) - very currency
-- [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
-- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
-- [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5
-- [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
-- [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 
 ## CSS 
 
-- [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
-- [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css) - Custom CSS theme for doxygen html-documentation with lots of customization parameters.
-- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
+- [JosiasAurel/minishort](https://github.com/JosiasAurel/minishort) - A simple mini URL shortener that runs on Deta.sh
 
-## Clojure 
+## Dockerfile 
 
-- [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+- [alecbcs/fly-restic](https://github.com/alecbcs/fly-restic) - Backup Any Rclone Remote to Another Using Restic on Fly.io
+- [nlhomme/archiso-builder](https://github.com/nlhomme/archiso-builder) - Build your own Arch Linux ISO made with 'archiso' using Docker
+- [mtremsal/pihole-fly-tailscale](https://github.com/mtremsal/pihole-fly-tailscale) - Pi-hole deployed at the edge on Fly.io and accessed via TailScale
+- [kotx/coder-fly](https://github.com/kotx/coder-fly) - Coder on Fly.io
+- [kubahorak/flyio-manet](https://github.com/kubahorak/flyio-manet) - Dockerfile and fly.toml for Manet website screenshot service
+- [matthewgall/flyapps](https://github.com/matthewgall/flyapps) - A repository of apps to deploy to fly.io services, easily!
 
-## Dart 
+## EJS 
 
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [marckesin/Deta-Drive-Project](https://github.com/marckesin/Deta-Drive-Project) - Microserviço de storage na nuvem utilizando Deta Drive.
 
 ## Go 
 
-- [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
-- [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
-- [nwtgck/gif-progress](https://github.com/nwtgck/gif-progress) - 🎬 Attach progress bar to animated GIF
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
+- [orca-group/spirit](https://github.com/orca-group/spirit) - 🔭  spacebin: text sharing for the final frontier
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 
 ## HTML 
 
-- [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
-- [jitbit/HtmlSanitizer](https://github.com/jitbit/HtmlSanitizer) - Fast JavaScript HTML Sanitizer, client-side (i.e. needs a browser, won't work in Node and other backend)
-- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [FabDevGit/barchartrace](https://github.com/FabDevGit/barchartrace) - Bar chart race online editor
-- [Lightcord/Lightcord](https://github.com/Lightcord/Lightcord) - A simple - customizable - Discord Client
-- [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
-- [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
-- [DenverCoder1/weather-app-tutorial](https://github.com/DenverCoder1/weather-app-tutorial) - Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.
-- [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
-- [mdayaram/calendar2020](https://github.com/mdayaram/calendar2020) - A simple calendar for 2020.
-- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-## Java 
-
-- [humzakh/removed](https://github.com/humzakh/removed) - An Android app for quickly viewing [removed] and [deleted] reddit comments.
-- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
-- [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
-- [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
+- [parnexcodes/discord-webhook-poster](https://github.com/parnexcodes/discord-webhook-poster) - Post Discord Webhooks easily!
+- [foxt/UltraShare](https://github.com/foxt/UltraShare) - UltraShare is a all in one server for screenshots, files, images, and links.
+- [berrysauce/thisday.link](https://github.com/berrysauce/thisday.link) - Secure link shortener with 24h valid links 🔒
 
 ## JavaScript 
 
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-- [GrimZZZ-404/gitpod-bot](https://github.com/GrimZZZ-404/gitpod-bot) - A discord bot for https://gitpod.io/chat
-- [tc39/proposal-type-annotations](https://github.com/tc39/proposal-type-annotations) - ECMAScript proposal for type syntax that is erased - Stage 1
-- [burkeholland/nodele](https://github.com/burkeholland/nodele) - 
-- [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
-- [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
-- [golopot/tex-to-unicode](https://github.com/golopot/tex-to-unicode) - A browser extension to convert TeX to Unicode in browser inputs.
-- [jaimeadf/BetterDiscordPlugins](https://github.com/jaimeadf/BetterDiscordPlugins) - A collection of plugins for the @BetterDiscord client modification (BiggerStreamPreview, WhoReacted, SecretRingTone and GuildProfile).
-- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
-- [LeaVerou/bliss](https://github.com/LeaVerou/bliss) - Blissful JavaScript
-- [fregante/release-with-changelog](https://github.com/fregante/release-with-changelog) - Creates GitHub releases for pushed tags, with the commit log as release body
-- [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
-- [buttons/react-github-btn](https://github.com/buttons/react-github-btn) - :octocat: Unofficial github:button component for React.js
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [Automattic/monk](https://github.com/Automattic/monk) - The wise MongoDB API
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
-- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-- [DavidAnson/vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
-- [jgclark/vscode-todo-highlight](https://github.com/jgclark/vscode-todo-highlight) - VSCode Extension to highlight TODOs etc.
-- [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
-- [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
-- [Mango/slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
-- [mourner/suncalc](https://github.com/mourner/suncalc) - A tiny JavaScript library for calculating sun/moon positions and phases.
-- [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
-- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-- [Hermanya/friendly-github](https://github.com/Hermanya/friendly-github) - 🐶Browser extension that makes GitHub a better Social Network.
-- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
-- [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
-- [patrickxchong/hide-discord-sidebar](https://github.com/patrickxchong/hide-discord-sidebar) - Chrome and Firefox extension to hide Discord servers and channels
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
-- [linuxmint/cinnamon-spices-applets](https://github.com/linuxmint/cinnamon-spices-applets) - Applets for the Cinnamon desktop
-- [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
-- [abrahammurciano/nospark-yt](https://github.com/abrahammurciano/nospark-yt) - 
-- [interledgerjs/web-monetization-scripts](https://github.com/interledgerjs/web-monetization-scripts) - Scripts to help you web monetize your site and/or API
-- [ArnoldSmith86/virtualtabletop](https://github.com/ArnoldSmith86/virtualtabletop) - a virtual surface in the browser on which you can play board, dice and card games
-- [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
-- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [KonradLinkowski/awesome-list-of-cool-people](https://github.com/KonradLinkowski/awesome-list-of-cool-people) - Awesome list of cool people - star if you want to join
-- [DenverCoder1/unicode-formatter](https://github.com/DenverCoder1/unicode-formatter) - Convert portions of text to fancy text using unicode fonts for use on Twitter and other sites that don't support rich text
-- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
-- [fireship-io/229-multi-level-dropdown](https://github.com/fireship-io/229-multi-level-dropdown) - Build an animated multi-level dropdown inspired by Facebook's UI
-- [codeSTACKr/react-tic-tac-toe-hooks](https://github.com/codeSTACKr/react-tic-tac-toe-hooks) - React Tic Tac Toe Game using Functional Components and Hooks
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-- [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
-- [wayou/vscode-todo-highlight](https://github.com/wayou/vscode-todo-highlight) - a vscode extension to highlighting todos, fixmes, and any annotations...
-- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
-- [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
-- [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator) - GitHub profile readme generator allows you to create nice and simple GitHub profile readme files that will be included in your profile previews.
+- [driiftkiing/plex-webhook](https://github.com/driiftkiing/plex-webhook) - Use Plex webhooks to push media notifications into Slack & Discord
+- [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
+- [dishapatel010/workgraph](https://github.com/dishapatel010/workgraph) - 
+- [johnkryptochain/Discord-Telegram-Bridge](https://github.com/johnkryptochain/Discord-Telegram-Bridge) - Discord &lt;-&gt; Telegram Bridge. Created for the Crypto Knowledge Pool Bridges
+- [rpxs/linki](https://github.com/rpxs/linki) - Serverless URL Shortener made with Next.js + Redis.
+- [hahnavi/telbot-otp](https://github.com/hahnavi/telbot-otp) - OTP Server with Telegram Bot
+- [muety/anchr](https://github.com/muety/anchr) - ⚓️ Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections
+- [ngshiheng/atomic-url](https://github.com/ngshiheng/atomic-url) - A serverless URL shortener built using Cloudflare Worker & KV
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-- [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
-- [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
-- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
-- [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit) - Creates a link next to edited and deleted Reddit comments to show the original from before it was edited. The unedited comment gets displayed inline.
-- [ncase/door](https://github.com/ncase/door) - A Valentine's Day one-minute minigame
+- [robvanderleek/capture-website-api](https://github.com/robvanderleek/capture-website-api) - Capture screenshots of websites as a (host it yourself) API
+- [elestio/ws-screenshot](https://github.com/elestio/ws-screenshot) - A simple way to take a screenshot of a website by providing its URL. ws-screenshot include a simple web UI but also a REST API and a Websocket API to automate screenshots.
+- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The high efficent browser driver on top of puppeteer.
+- [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story) - A serverless Pastebin that allows users to share text content through a link
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [muan/discord-webhooks](https://github.com/muan/discord-webhooks) - A server processing webhook data from Heroku and passing them to Discord, deployed to Vercel.
+- [JaneJeon/blink](https://github.com/JaneJeon/blink) - Modern, lightweight, planet-scale link shortener for teams 🎉
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 
 ## Jupyter Notebook 
 
-- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-- [celiasmith/mind_field_stilwell_brain](https://github.com/celiasmith/mind_field_stilwell_brain) - The model used in the Stilwell Brain episode of Mind Field
-
-## Kotlin 
-
-- [muzei/muzei](https://github.com/muzei/muzei) - Muzei Live Wallpaper for Android
-- [revanced/revanced-patcher](https://github.com/revanced/revanced-patcher) - 💉 Patcher used by ReVanced
-
-## Markdown 
-
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
-- [coderjojo/creative-profile-readme](https://github.com/coderjojo/creative-profile-readme) - A Collection of GitHub Profiles with awesome readme
+- [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 
 ## Others 
 
-- [quilljs/awesome-quill](https://github.com/quilljs/awesome-quill) - A curated list of awesome things related to Quill
-- [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
-- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
-- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐
-- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
-- [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
-- [albertlauncher/awesome-albert](https://github.com/albertlauncher/awesome-albert) - A curated list of third party albert extensions
-- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [mroth/emojitracker](https://github.com/mroth/emojitracker) - :dizzy: track ALL the emoji
-- [ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList) - List of Development YouTube Channels
-- [mhsattarian/nemo-open-in-vscode](https://github.com/mhsattarian/nemo-open-in-vscode) - "Open in vscode" option for context menu in Cinnamon file manager, Nemo.
-- [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
-- [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
-- [DenverCoderOne/My-Contributions](https://github.com/DenverCoderOne/My-Contributions) - List of Jonah Lawrence's forked Open Source projects on GitHub.
-- [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
-- [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support) - Community Help & Support and AEA (Ask Everyone Anything)
-- [szabgab/awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
-- [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - Jonah Lawrence's Profile README
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is where developers grow together 👩🏽‍💻 👨‍💻
-- [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-- [DenverCoder1/latex-gboard-dictionary](https://github.com/DenverCoder1/latex-gboard-dictionary) - ⌨ Importable dictionary for typing math symbols more easily on your Android phone by using keyboard shortcuts inspired by LaTeX
-- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
-
-## PHP 
-
-- [deanblackborough/php-quill-renderer](https://github.com/deanblackborough/php-quill-renderer) - Render quill insert deltas to HTML, Markdown and GitHub flavoured Markdown
-- [nadar/quill-delta-parser](https://github.com/nadar/quill-delta-parser) - A PHP library to parse and render Quill WYSIWYG Deltas into HTML - Flexibel and extendible for custom elements.
-- [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
-- [jan-vandenberg/cruddiy](https://github.com/jan-vandenberg/cruddiy) - No-code Bootstrap PHP CRUD generator
-- [rialto-php/puphpeteer](https://github.com/rialto-php/puphpeteer) - A Puppeteer bridge for PHP, supporting the entire API.
-- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
-- [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection) - Minimalistic, flat art, and colorful, digital nature wallpapers and an API for randomly selecting them
-- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
-- [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
-- [DenverCoder1/Simple-View-Counter](https://github.com/DenverCoder1/Simple-View-Counter) - Simple view counter for websites and Github READMEs.
-- [DenverCoder1/php-simple-crud-api](https://github.com/DenverCoder1/php-simple-crud-api) - Simple API for storing and retrieving labeled data (grouped key-value pairs)
-- [hidehalo/nanoid-php](https://github.com/hidehalo/nanoid-php) - PHP implementation of Nanoid, secure URL-friendly unique ID generator
-- [bramus/router](https://github.com/bramus/router) - A lightweight and simple object oriented PHP Router
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
-- [icanhazstring/random-issue-picker](https://github.com/icanhazstring/random-issue-picker) - Select a random issue from github or gitlab by certain criteria
-- [DenverCoder1/github-readme-youtube-stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - Youtube stats badges for your Github profile README. Displays the total number of subscribers or the view count for your channel.
+- [dwyl/gitea-server](https://github.com/dwyl/gitea-server) - 🍵  Step-by-step instructions for deploying Gitea on Fly.io
+- [manjaro/manjaro-iso-action](https://github.com/manjaro/manjaro-iso-action) - Install prerequisites for building Manjaro on ubuntu
+- [DRSDavidSoft/additional-hosts](https://github.com/DRSDavidSoft/additional-hosts) - 🛡 List of categorized undesired hosts
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 ## Python 
 
-- [replicate/cog-stable-diffusion](https://github.com/replicate/cog-stable-diffusion) - Diffusers Stable Diffusion as a Cog model
-- [JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR) - SwinIR: Image Restoration Using Swin Transformer (official repository)
-- [abrahammurciano/python-constyle](https://github.com/abrahammurciano/python-constyle) - A Python library to add style to your console.
-- [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands) - A Nextcord extension for pre-built custom help commands for prefix commands and slash commands.
-- [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
-- [openai/openai-python](https://github.com/openai/openai-python) - 
-- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
-- [abrahammurciano/rainbowlog](https://github.com/abrahammurciano/rainbowlog) - Format your python logs with colours based on the log levels.
-- [kevslinger/bot-be-named](https://github.com/kevslinger/bot-be-named) - 
-- [nomnoms12/saucenao_api](https://github.com/nomnoms12/saucenao_api) - Wrapper for SauceNAO JSON API
-- [pixray/pixray](https://github.com/pixray/pixray) - 
-- [DisnakeDev/disnake](https://github.com/DisnakeDev/disnake) - An API wrapper for Discord written in Python.
-- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) - The source code that powers readthedocs.org
-- [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
-- [esfox/albert-discord-timestamp](https://github.com/esfox/albert-discord-timestamp) - Discord Timestamp Generator Python extension for the Albert Launcher
-- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [abrahammurciano/paul-bot](https://github.com/abrahammurciano/paul-bot) - Hi! I'm Paul; a teeny tiny bot who's good at one thing. Making polls. And when I say good, I mean really really good. Like the bestest best bot ever at making polls. I can make open polls, I can make 
-- [abrahammurciano/discord-lumberjack](https://github.com/abrahammurciano/discord-lumberjack) - A Python logging handler which sends its logs to a Discord Channel
-- [python/cpython](https://github.com/python/cpython) - The Python programming language
-- [nextcord/nextcord-v3](https://github.com/nextcord/nextcord-v3) - A fast modular discord API wrapper written for python
-- [jaraco/inflect](https://github.com/jaraco/inflect) - Correctly generate plurals, ordinals, indefinite articles; convert numbers to words
-- [hgrecco/pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
-- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video with a simple command line interface that is free and open source.
-- [albertlauncher/python](https://github.com/albertlauncher/python) - A repository for the official Python extensions
-- [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python
-- [hugovk/em-keyboard](https://github.com/hugovk/em-keyboard) - the cli emoji keyboard
-- [bergercookie/awesome-albert-plugins](https://github.com/bergercookie/awesome-albert-plugins) - Unofficial collection of plugins for the Albert launcher (https://albertlauncher.github.io/).
-- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
-- [nextcord/nextcord-ext-ipc](https://github.com/nextcord/nextcord-ext-ipc) - 🌐 A Nextcord extension for inter-process communication
-- [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-- [apurv-r/discord-together](https://github.com/apurv-r/discord-together) - An unofficial module that allows the use of the Discord's BETA feature, Party Games - like YouTube together or Poker Night.
-- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [nextcord/nextcord-ext-menus](https://github.com/nextcord/nextcord-ext-menus) - A nextcord menu and pagination extension that makes working with reaction menus and button component menus a bit easier
-- [nextcord/previous](https://github.com/nextcord/previous) - The support bot for nextcord
-- [nextcord/nextcord](https://github.com/nextcord/nextcord) - A Python wrapper for the Discord API forked from discord.py
-- [abrahammurciano/pygraphsearch](https://github.com/abrahammurciano/pygraphsearch) - 
-- [abrahammurciano/s-interpreter](https://github.com/abrahammurciano/s-interpreter) - 
-- [DXsmiley/mathbot](https://github.com/DXsmiley/mathbot) - Discord bot for mathematics
-- [kiki7000/discord.py-components](https://github.com/kiki7000/discord.py-components) - An unofficial third-party library of discord.py for discord components.
-- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
-- [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
-- [praw-dev/asyncpraw](https://github.com/praw-dev/asyncpraw) - Async PRAW, an abbreviation for "Asynchronous Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
-- [praw-dev/prawcore](https://github.com/praw-dev/prawcore) - Low-level communication layer for PRAW 4+.
-- [praw-dev/praw](https://github.com/praw-dev/praw) - PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API.
-- [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
-- [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
-- [ericvsmith/dataclasses](https://github.com/ericvsmith/dataclasses) - 
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-- [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
-- [cyanfish/python-lichess](https://github.com/cyanfish/python-lichess) - Python client for the lichess.org API
-- [jmoiron/humanize](https://github.com/jmoiron/humanize) - python humanize functions
-- [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
-- [matthewwithanm/python-markdownify](https://github.com/matthewwithanm/python-markdownify) - Convert HTML to Markdown
-- [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
-- [lxml/lxml](https://github.com/lxml/lxml) - The lxml XML toolkit for Python
-- [googleapis/google-api-python-client](https://github.com/googleapis/google-api-python-client) - 🐍 The official Python client library for Google's discovery based APIs.
-- [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
-- [DenverCoder1/weasley-chess-bot](https://github.com/DenverCoder1/weasley-chess-bot) - Discord bot for Weasley's Chess Club server
-- [DenverCoder1/play-lichess](https://github.com/DenverCoder1/play-lichess) - Module for creating match links on Lichess that players can join
-- [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii) - Python library for converting lists to fancy ASCII tables for displaying in the terminal and on Discord
-- [kevslinger/ravenclaw-discord-bot](https://github.com/kevslinger/ravenclaw-discord-bot) - 
-- [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
-- [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
-- [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot) - Bot for JCT ESP CompSci Discord Server
-- [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
-- [Rapptz/RoboDanny](https://github.com/Rapptz/RoboDanny) - A discord bot for servers that I like.
-- [interactions-py/library](https://github.com/interactions-py/library) - Easy, simple, scalable and modular: a Python API wrapper for interactions.
-- [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
-- [DenverCoder1/Tag-Owl-Reddit-Bot](https://github.com/DenverCoder1/Tag-Owl-Reddit-Bot) - Reddit bot to tag long lists of users
-- [abrahammurciano/rolling-tags](https://github.com/abrahammurciano/rolling-tags) - 
-- [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
-
-## QML 
-
-- [abrahammurciano/plasma-splash-sweet-arch](https://github.com/abrahammurciano/plasma-splash-sweet-arch) - 
-
-## R 
-
-- [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
+- [guzmi89/qbittrclonebot](https://github.com/guzmi89/qbittrclonebot) - Qbittorrent + Rclone + Bot python-telegram
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
+- [L4GSP1KE/Upload-Assistant](https://github.com/L4GSP1KE/Upload-Assistant) - 
+- [codingwithroby/FastAPI-The-Complete-Course](https://github.com/codingwithroby/FastAPI-The-Complete-Course) - 
+- [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
+- [Nriver/trilium-py](https://github.com/Nriver/trilium-py) - Python client for ETAPI of Trilium Note.
+- [hyPnOtICDo0g/rss-chan](https://github.com/hyPnOtICDo0g/rss-chan) - A telegram RSS feed reader bot, written using python and feedparser.
+- [ArthureVarghese/Torrent-to-Magnet-Updated](https://github.com/ArthureVarghese/Torrent-to-Magnet-Updated) - A very simple Python 3 utility for converting .torrent files to magnet links
+- [nibrag/tg_torrents_converter](https://github.com/nibrag/tg_torrents_converter) - Telegram bots: Magnet to torrent and Torrent to magnet converter
+- [DanySK/torrent2magnet](https://github.com/DanySK/torrent2magnet) - A very simple Python 3 utility for converting .torrent files to magnet links
+- [buddhhu/PasteBin-Bot](https://github.com/buddhhu/PasteBin-Bot) - PasteBin Telegram Bot made using PastebinAPI in python.
+- [arunpt/Quotes-API](https://github.com/arunpt/Quotes-API) - Unofficial Goodreads (Quotes) API
+- [useragents/Snapchat-Snapscore-Botter](https://github.com/useragents/Snapchat-Snapscore-Botter) - Python-based Snapchat score booster using pyautogui module
+- [useragents/Proxyless-Spotify-Follow-Bot](https://github.com/useragents/Proxyless-Spotify-Follow-Bot) - Requests based multi-threaded script for increasing followers on Spotify
+- [phineas05/discord-rich-presence-plex](https://github.com/phineas05/discord-rich-presence-plex) - Display your Plex status on Discord using Rich Presence
+- [DebXD/link-media-scraper-bot](https://github.com/DebXD/link-media-scraper-bot) - Scraper of  cyberdrop, bunkr, streamtape links, Supports Streamtape uploading, Made Using Pyrogram Framework
+- [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
+- [NameNami/OTP-Bot](https://github.com/NameNami/OTP-Bot) - Python OTP Bot (required twilio upgraded acc)
+- [iwpnd/fastapi-key-auth](https://github.com/iwpnd/fastapi-key-auth) - FastAPI API key authorizer
+- [Youngestdev/fastapi-mongo](https://github.com/Youngestdev/fastapi-mongo) - Template for building FastAPI applications with MongoDB.
+- [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
+- [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
+- [KB885/Less-Real-Data](https://github.com/KB885/Less-Real-Data) - :floppy_disk: Less-real.com data collection of anime/manga quotes
+- [Profility/saucebot](https://github.com/Profility/saucebot) - A Discord bot that utilizes SauceNao API to find the source of the anime image.
+- [smallwat3r/shhh](https://github.com/smallwat3r/shhh) - Share sensitive info without leaving a trace in your chat logs or email accounts.
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed f
+- [pokurt/GitGram](https://github.com/pokurt/GitGram) - Github Integration for Telegram Bot API
+- [python-geeks/Automation-scripts](https://github.com/python-geeks/Automation-scripts) - Repo for creating awesome automation scripts to make my panda lazier
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
+- [gautamajay52/mySPOTIFY](https://github.com/gautamajay52/mySPOTIFY) - A Simple Telegram Bot, which will send you current playing song's lyrics from Spotify to telegram
+- [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
+- [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 
 ## Ruby 
 
-- [JasonBarnabe/greasyfork](https://github.com/JasonBarnabe/greasyfork) - An online repository of user scripts.
-- [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-- [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8) - Profile ReadME! Join my community word cloud!
+- [heroku/webhooks-demo](https://github.com/heroku/webhooks-demo) - 
 
 ## Rust 
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary in your terminal
-- [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
-- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-
-## SCSS 
-
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-- [mallowigi/material-dev-tools](https://github.com/mallowigi/material-dev-tools) - Material Theme UI for Chrome DevTools
-
-## Scala 
-
-- [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
+- [devtomio/website-screenshot](https://github.com/devtomio/website-screenshot) - 📸 website screenshots as a service
+- [WantGuns/bin](https://github.com/WantGuns/bin) - highly opinionated, minimal pastebin
 
 ## Shell 
 
-- [abrahammurciano/plymouth-theme-sweet-arch](https://github.com/abrahammurciano/plymouth-theme-sweet-arch) - 
-- [creyD/prettier_action](https://github.com/creyD/prettier_action) - GitHub action for running prettier on your projects pull requests
-- [php-actions/phpunit](https://github.com/php-actions/phpunit) - Run your PHPUnit tests in your Github Actions.
-- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [mattnotmitt/doxygen-action](https://github.com/mattnotmitt/doxygen-action) - GitHub Action for generating Doxygen documentation for your projects.
-- [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
-- [eddiejaoude/dotfiles](https://github.com/eddiejaoude/dotfiles) - My dotfiles for setting up my computers and CodeSpaces 🤓
-- [Vaelatern/init-dotfiles](https://github.com/Vaelatern/init-dotfiles) - Quickly get your dotfiles up and running
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [regolith-linux/regolith-ubuntu-iso-builder](https://github.com/regolith-linux/regolith-ubuntu-iso-builder) - 
+- [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
+- [MattTennison/deploy-code-server](https://github.com/MattTennison/deploy-code-server) - Fork with Fly.io Support
+- [88lex/cleanremotes](https://github.com/88lex/cleanremotes) - 
+- [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
+- [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
+- [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ zero-config cloudflare workers application deployment using wrangler and github actions
 
-## Slim 
+## Smarty 
 
-- [emojitracker/emojitrack-web](https://github.com/emojitracker/emojitrack-web) - :dizzy: Emojitracker frontend application
+- [lineageos-infra/fly-apps](https://github.com/lineageos-infra/fly-apps) - set of apps running on fly.io
+
+## Svelte 
+
+- [crackhub-dev/gamesdrive-link-encrypter](https://github.com/crackhub-dev/gamesdrive-link-encrypter) - Encrypt links with base64 and provide a noob-friendly way to decrypt
 
 ## TypeScript 
 
-- [advaith1/libs](https://github.com/advaith1/libs) - Compares Discord libraries and their support of new API features. Made with React, Next.js, and Bulma.
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
-- [DenverCoderOne/readme-repos-list](https://github.com/DenverCoderOne/readme-repos-list) - 🖇️ GitHub Action to list repositories in a README (fork of readme-repos-list by koj-co)
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
-- [gitpod-io/browser-extension](https://github.com/gitpod-io/browser-extension) - The browser extension for gitpod.io. Works with Chrome and Firefox.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
-- [idealclover/GitHub-Star-Counter](https://github.com/idealclover/GitHub-Star-Counter) - ✨An API to count a GitHub user's total stars, working with shield.io.
-- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
-- [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [nfriedly/express-rate-limit](https://github.com/nfriedly/express-rate-limit) - Basic rate-limiting middleware for express
-- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-- [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
-- [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
-- [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
-- [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
-- [Huuums/vscode-folder-templates](https://github.com/Huuums/vscode-folder-templates) - Create your own Component structure with a simple click.
-- [microsoft/vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
-- [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot) - Discord bot for Eddie Jaoude's Discord server
-- [BeardedBear/bearded-theme](https://github.com/BeardedBear/bearded-theme) - The VS Code theme with a long beard.
-- [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
-- [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
-- [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
-- [OzymandiasTheGreat/emoji-keyboard](https://github.com/OzymandiasTheGreat/emoji-keyboard) - Type emoji easily! Virtual keyboard-like emoji palette for Linux with [fewer] of features.
-- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
-- [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot) - 
-- [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
-- [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [thenewboston-developers/Website](https://github.com/thenewboston-developers/Website) - The website and documentation for thenewboston.
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-
-## Vala 
-
-- [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
+- [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
+- [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
+- [MagicCap/MagicCap3](https://github.com/MagicCap/MagicCap3) - A repo to experiment with MagicCap 3's CI scripts. WILL BE DELETED WHEN MAGICCAP 3 IS UPSTREAMED!
+- [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist alternative and paste service
+- [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
+- [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template) - A template to use for deploying a #grammY bot on #deta
+- [rocktimsaikia/binhub](https://github.com/rocktimsaikia/binhub) - 🗑️ Bulk removing Github repositories made easy  (public-beta)
 
 ## Vue 
 
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+- [adyanth/shortpaste](https://github.com/adyanth/shortpaste) - A Go based URL shortener, pastebin and file uploader
+- [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes) - App for taking notes and tracking tasks on a daily basis
+- [fayazara/feedful](https://github.com/fayazara/feedful) - A fast, jamstack, opinionated rss reader for tech news.
+- [supaflare/supaflare](https://github.com/supaflare/supaflare) - URL shortener / redirection service powered by Supabase, Cloudflare Workers, Workers KV and Cloudflare Pages.
 
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [DenverCoder1](https://github.com/DenverCoder1) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [zekxtreme](https://github.com/zekxtreme) has waived all copyright and related or neighboring rights to this work.
 
