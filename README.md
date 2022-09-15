@@ -6,16 +6,13 @@
 ## Contents
 
 - [C#](#c#)
-- [CSS](#css)
 - [Dockerfile](#dockerfile)
-- [EJS](#ejs)
 - [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Others](#others)
 - [Python](#python)
-- [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Smarty](#smarty)
@@ -27,10 +24,6 @@
 
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 
-## CSS 
-
-- [JosiasAurel/minishort](https://github.com/JosiasAurel/minishort) - A simple mini URL shortener that runs on Deta.sh
-
 ## Dockerfile 
 
 - [alecbcs/fly-restic](https://github.com/alecbcs/fly-restic) - Backup Any Rclone Remote to Another Using Restic on Fly.io
@@ -40,14 +33,9 @@
 - [kubahorak/flyio-manet](https://github.com/kubahorak/flyio-manet) - Dockerfile and fly.toml for Manet website screenshot service
 - [matthewgall/flyapps](https://github.com/matthewgall/flyapps) - A repository of apps to deploy to fly.io services, easily!
 
-## EJS 
-
-- [marckesin/Deta-Drive-Project](https://github.com/marckesin/Deta-Drive-Project) - Microserviço de storage na nuvem utilizando Deta Drive.
-
 ## Go 
 
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
-- [orca-group/spirit](https://github.com/orca-group/spirit) - 🔭  spacebin: text sharing for the final frontier
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 
 ## HTML 
@@ -62,10 +50,8 @@
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
 - [dishapatel010/workgraph](https://github.com/dishapatel010/workgraph) - 
 - [johnkryptochain/Discord-Telegram-Bridge](https://github.com/johnkryptochain/Discord-Telegram-Bridge) - Discord &lt;-&gt; Telegram Bridge. Created for the Crypto Knowledge Pool Bridges
-- [rpxs/linki](https://github.com/rpxs/linki) - Serverless URL Shortener made with Next.js + Redis.
 - [hahnavi/telbot-otp](https://github.com/hahnavi/telbot-otp) - OTP Server with Telegram Bot
 - [muety/anchr](https://github.com/muety/anchr) - ⚓️ Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections
-- [ngshiheng/atomic-url](https://github.com/ngshiheng/atomic-url) - A serverless URL shortener built using Cloudflare Worker & KV
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [robvanderleek/capture-website-api](https://github.com/robvanderleek/capture-website-api) - Capture screenshots of websites as a (host it yourself) API
 - [elestio/ws-screenshot](https://github.com/elestio/ws-screenshot) - A simple way to take a screenshot of a website by providing its URL. ws-screenshot include a simple web UI but also a REST API and a Websocket API to automate screenshots.
@@ -90,6 +76,7 @@
 
 ## Python 
 
+- [LemonPi314/wastebin](https://github.com/LemonPi314/wastebin) - Simple pastebin service on Deta.
 - [guzmi89/qbittrclonebot](https://github.com/guzmi89/qbittrclonebot) - Qbittorrent + Rclone + Bot python-telegram
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [L4GSP1KE/Upload-Assistant](https://github.com/L4GSP1KE/Upload-Assistant) - 
@@ -109,23 +96,17 @@
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [NameNami/OTP-Bot](https://github.com/NameNami/OTP-Bot) - Python OTP Bot (required twilio upgraded acc)
 - [iwpnd/fastapi-key-auth](https://github.com/iwpnd/fastapi-key-auth) - FastAPI API key authorizer
-- [Youngestdev/fastapi-mongo](https://github.com/Youngestdev/fastapi-mongo) - Template for building FastAPI applications with MongoDB.
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
 - [KB885/Less-Real-Data](https://github.com/KB885/Less-Real-Data) - :floppy_disk: Less-real.com data collection of anime/manga quotes
 - [Profility/saucebot](https://github.com/Profility/saucebot) - A Discord bot that utilizes SauceNao API to find the source of the anime image.
 - [smallwat3r/shhh](https://github.com/smallwat3r/shhh) - Share sensitive info without leaving a trace in your chat logs or email accounts.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed f
-- [pokurt/GitGram](https://github.com/pokurt/GitGram) - Github Integration for Telegram Bot API
 - [python-geeks/Automation-scripts](https://github.com/python-geeks/Automation-scripts) - Repo for creating awesome automation scripts to make my panda lazier
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [gautamajay52/mySPOTIFY](https://github.com/gautamajay52/mySPOTIFY) - A Simple Telegram Bot, which will send you current playing song's lyrics from Spotify to telegram
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
-
-## Ruby 
-
-- [heroku/webhooks-demo](https://github.com/heroku/webhooks-demo) - 
 
 ## Rust 
 
@@ -138,7 +119,6 @@
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
 - [MattTennison/deploy-code-server](https://github.com/MattTennison/deploy-code-server) - Fork with Fly.io Support
 - [88lex/cleanremotes](https://github.com/88lex/cleanremotes) - 
-- [mvallim/live-custom-ubuntu-from-scratch](https://github.com/mvallim/live-custom-ubuntu-from-scratch) - This procedure shows how to create a bootable and installable Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ zero-config cloudflare workers application deployment using wrangler and github actions
 
@@ -155,10 +135,8 @@
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
-- [MagicCap/MagicCap3](https://github.com/MagicCap/MagicCap3) - A repo to experiment with MagicCap 3's CI scripts. WILL BE DELETED WHEN MAGICCAP 3 IS UPSTREAMED!
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist alternative and paste service
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
-- [waptik/grammy-on-deta-template](https://github.com/waptik/grammy-on-deta-template) - A template to use for deploying a #grammY bot on #deta
 - [rocktimsaikia/binhub](https://github.com/rocktimsaikia/binhub) - 🗑️ Bulk removing Github repositories made easy  (public-beta)
 
 ## Vue 
