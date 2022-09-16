@@ -116,6 +116,7 @@
 
 ## Shell 
 
+- [AppImage/pkg2appimage](https://github.com/AppImage/pkg2appimage) - Tool and recipes to convert existing deb packages to AppImage
 - [regolith-linux/regolith-ubuntu-iso-builder](https://github.com/regolith-linux/regolith-ubuntu-iso-builder) - 
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
 - [MattTennison/deploy-code-server](https://github.com/MattTennison/deploy-code-server) - Fork with Fly.io Support
