@@ -116,6 +116,7 @@
 
 ## Shell 
 
+- [sam-6174/jellytin](https://github.com/sam-6174/jellytin) - 
 - [regolith-linux/regolith-ubuntu-iso-builder](https://github.com/regolith-linux/regolith-ubuntu-iso-builder) - 
 - [AppImage/pkg2appimage](https://github.com/AppImage/pkg2appimage) - Tool and recipes to convert existing deb packages to AppImage
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
