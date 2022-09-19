@@ -29,7 +29,6 @@
 - [alecbcs/fly-restic](https://github.com/alecbcs/fly-restic) - Backup Any Rclone Remote to Another Using Restic on Fly.io
 - [nlhomme/archiso-builder](https://github.com/nlhomme/archiso-builder) - Build your own Arch Linux ISO made with 'archiso' using Docker
 - [mtremsal/pihole-fly-tailscale](https://github.com/mtremsal/pihole-fly-tailscale) - Pi-hole deployed at the edge on Fly.io and accessed via TailScale
-- [kotx/coder-fly](https://github.com/kotx/coder-fly) - Coder on Fly.io
 - [kubahorak/flyio-manet](https://github.com/kubahorak/flyio-manet) - Dockerfile and fly.toml for Manet website screenshot service
 - [matthewgall/flyapps](https://github.com/matthewgall/flyapps) - A repository of apps to deploy to fly.io services, easily!
 
@@ -121,6 +120,7 @@
 - [AppImage/pkg2appimage](https://github.com/AppImage/pkg2appimage) - Tool and recipes to convert existing deb packages to AppImage
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
 - [MattTennison/deploy-code-server](https://github.com/MattTennison/deploy-code-server) - Fork with Fly.io Support
+- [kotx/coder-fly](https://github.com/kotx/coder-fly) - Coder on Fly.io
 - [88lex/cleanremotes](https://github.com/88lex/cleanremotes) - 
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action) - 🧙‍♀️ zero-config cloudflare workers application deployment using wrangler and github actions
