@@ -110,6 +110,7 @@
 
 ## Rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [devtomio/website-screenshot](https://github.com/devtomio/website-screenshot) - 📸 website screenshots as a service
 - [WantGuns/bin](https://github.com/WantGuns/bin) - highly opinionated, minimal pastebin
 
