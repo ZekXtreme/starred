@@ -26,6 +26,7 @@
 
 ## Dockerfile 
 
+- [wei/rclone](https://github.com/wei/rclone) - Wraps the rclone CLI to be used in Github Actions
 - [alecbcs/fly-restic](https://github.com/alecbcs/fly-restic) - Backup Any Rclone Remote to Another Using Restic on Fly.io
 - [nlhomme/archiso-builder](https://github.com/nlhomme/archiso-builder) - Build your own Arch Linux ISO made with 'archiso' using Docker
 - [mtremsal/pihole-fly-tailscale](https://github.com/mtremsal/pihole-fly-tailscale) - Pi-hole deployed at the edge on Fly.io and accessed via TailScale
