@@ -120,7 +120,7 @@
 - [Protektor-Desura/Archon](https://github.com/Protektor-Desura/Archon) - A Home Server for media streaming, game streaming, home automation and management.
 - [sam-6174/jellytin](https://github.com/sam-6174/jellytin) - 
 - [regolith-linux/regolith-ubuntu-iso-builder](https://github.com/regolith-linux/regolith-ubuntu-iso-builder) - 
-- [AppImage/pkg2appimage](https://github.com/AppImage/pkg2appimage) - Tool and recipes to convert existing deb packages to AppImage
+- [AppImageCommunity/pkg2appimage](https://github.com/AppImageCommunity/pkg2appimage) - Tool and recipes to convert existing deb packages to AppImage
 - [archon-linux/archon-iso](https://github.com/archon-linux/archon-iso) - 
 - [MattTennison/deploy-code-server](https://github.com/MattTennison/deploy-code-server) - Fork with Fly.io Support
 - [kotx/coder-fly](https://github.com/kotx/coder-fly) - Coder on Fly.io
