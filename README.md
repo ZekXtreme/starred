@@ -138,6 +138,8 @@
 
 ## TypeScript 
 
+- [grey-codes/RedditSharp](https://github.com/grey-codes/RedditSharp) - Angular Reddit client
+- [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [rocktimsaikia/binhub](https://github.com/rocktimsaikia/binhub) - 🗑️ Bulk removing Github repositories made easy  (public-beta)
 
