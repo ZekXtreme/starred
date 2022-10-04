@@ -42,6 +42,7 @@
 
 - [R4cc/Feedster](https://github.com/R4cc/Feedster) - A semi-minimal RSS reader written in ASP.NET Blazor
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
+- [LemonPi314/wastebin](https://github.com/LemonPi314/wastebin) - Simple pastebin service on Deta.
 - [parnexcodes/discord-webhook-poster](https://github.com/parnexcodes/discord-webhook-poster) - Post Discord Webhooks easily!
 - [foxt/UltraShare](https://github.com/foxt/UltraShare) - UltraShare is a all in one server for screenshots, files, images, and links.
 - [berrysauce/thisday.link](https://github.com/berrysauce/thisday.link) - Secure link shortener with 24h valid links 🔒
@@ -80,7 +81,6 @@
 
 - [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
 - [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
-- [LemonPi314/wastebin](https://github.com/LemonPi314/wastebin) - Simple pastebin service on Deta.
 - [guzmi89/qbittrclonebot](https://github.com/guzmi89/qbittrclonebot) - Qbittorrent + Rclone + Bot python-telegram
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [L4GSP1KE/Upload-Assistant](https://github.com/L4GSP1KE/Upload-Assistant) - 
