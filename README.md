@@ -114,6 +114,7 @@
 
 ## Rust 
 
+- [ayrat555/el_monitorro](https://github.com/ayrat555/el_monitorro) - 🐂 El Monitorro is a high-performance feed reader as a Telegram bot. It supports RSS, Atom and JSON feeds
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [devtomio/website-screenshot](https://github.com/devtomio/website-screenshot) - 📸 website screenshots as a service
