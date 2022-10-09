@@ -35,6 +35,7 @@
 
 ## Go 
 
+- [HirbodBehnam/RedditDownloaderBot](https://github.com/HirbodBehnam/RedditDownloaderBot) - A reddit downloader telegram bot
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 
@@ -140,6 +141,7 @@
 
 ## Svelte 
 
+- [haishanh/cherry](https://github.com/haishanh/cherry) - Cherry is a self-hostable bookmark service
 - [crackhub-dev/gamesdrive-link-encrypter](https://github.com/crackhub-dev/gamesdrive-link-encrypter) - Encrypt links with base64 and provide a noob-friendly way to decrypt
 
 ## TypeScript 
