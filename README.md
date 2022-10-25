@@ -41,7 +41,7 @@
 
 ## HTML 
 
-- [danricho/where_the](https://github.com/danricho/where_the) - 
+- [danricho/where_the](https://github.com/danricho/where_the) - A simple Python Flask web application which helps keep track of your stored items.
 - [R4cc/Feedster](https://github.com/R4cc/Feedster) - A semi-minimal RSS reader written in ASP.NET Blazor
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [LemonPi314/wastebin](https://github.com/LemonPi314/wastebin) - Simple pastebin service on Deta.
@@ -97,7 +97,7 @@
 - [arunpt/Quotes-API](https://github.com/arunpt/Quotes-API) - Unofficial Goodreads (Quotes) API
 - [useragents/Snapchat-Snapscore-Botter](https://github.com/useragents/Snapchat-Snapscore-Botter) - Python-based Snapchat score booster using pyautogui module
 - [useragents/Proxyless-Spotify-Follow-Bot](https://github.com/useragents/Proxyless-Spotify-Follow-Bot) - Requests based multi-threaded script for increasing followers on Spotify
-- [phineas05/discord-rich-presence-plex](https://github.com/phineas05/discord-rich-presence-plex) - Display your Plex status on Discord using Rich Presence
+- [phin05/discord-rich-presence-plex](https://github.com/phin05/discord-rich-presence-plex) - Display your Plex status on Discord using Rich Presence
 - [DebXD/link-media-scraper-bot](https://github.com/DebXD/link-media-scraper-bot) - Scraper of  cyberdrop, bunkr, streamtape links, Supports Streamtape uploading, Made Using Pyrogram Framework
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [NameNami/OTP-Bot](https://github.com/NameNami/OTP-Bot) - Python OTP Bot (required twilio upgraded acc)
