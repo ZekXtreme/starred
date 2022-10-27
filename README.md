@@ -61,7 +61,7 @@
 - [robvanderleek/capture-website-api](https://github.com/robvanderleek/capture-website-api) - Capture screenshots of websites as a (host it yourself) API
 - [elestio/ws-screenshot](https://github.com/elestio/ws-screenshot) - A simple way to take a screenshot of a website by providing its URL. ws-screenshot include a simple web UI but also a REST API and a Websocket API to automate screenshots.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The high efficent browser driver on top of puppeteer.
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built in top of Puppeteer.
 - [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story) - A serverless Pastebin that allows users to share text content through a link
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [muan/discord-webhooks](https://github.com/muan/discord-webhooks) - A server processing webhook data from Heroku and passing them to Discord, deployed to Vercel.
