@@ -11,6 +11,7 @@
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
@@ -71,6 +72,10 @@
 ## Jupyter Notebook 
 
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
+
+## Kotlin 
+
+- [TwidereProject/TwidereX-Android](https://github.com/TwidereProject/TwidereX-Android) - Next generation of Twidere for Android
 
 ## Others 
 
