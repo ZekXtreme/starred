@@ -30,7 +30,6 @@
 - [wei/rclone](https://github.com/wei/rclone) - Wraps the rclone CLI to be used in Github Actions
 - [alecbcs/fly-restic](https://github.com/alecbcs/fly-restic) - Backup Any Rclone Remote to Another Using Restic on Fly.io
 - [nlhomme/archiso-builder](https://github.com/nlhomme/archiso-builder) - Build your own Arch Linux ISO made with 'archiso' using Docker
-- [mtremsal/pihole-fly-tailscale](https://github.com/mtremsal/pihole-fly-tailscale) - Pi-hole deployed at the edge on Fly.io and accessed via TailScale
 - [kubahorak/flyio-manet](https://github.com/kubahorak/flyio-manet) - Dockerfile and fly.toml for Manet website screenshot service
 - [matthewgall/flyapps](https://github.com/matthewgall/flyapps) - A repository of apps to deploy to fly.io services, easily!
 
@@ -45,7 +44,6 @@
 - [danricho/where_the](https://github.com/danricho/where_the) - A simple Python Flask web application which helps keep track of your stored items.
 - [R4cc/Feedster](https://github.com/R4cc/Feedster) - A semi-minimal RSS reader written in ASP.NET Blazor
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
-- [LemonPi314/wastebin](https://github.com/LemonPi314/wastebin) - Simple pastebin service on Deta.
 - [parnexcodes/discord-webhook-poster](https://github.com/parnexcodes/discord-webhook-poster) - Post Discord Webhooks easily!
 - [foxt/UltraShare](https://github.com/foxt/UltraShare) - UltraShare is a all in one server for screenshots, files, images, and links.
 - [berrysauce/thisday.link](https://github.com/berrysauce/thisday.link) - Secure link shortener with 24h valid links 🔒
@@ -66,7 +64,6 @@
 - [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story) - A serverless Pastebin that allows users to share text content through a link
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [muan/discord-webhooks](https://github.com/muan/discord-webhooks) - A server processing webhook data from Heroku and passing them to Discord, deployed to Vercel.
-- [JaneJeon/blink](https://github.com/JaneJeon/blink) - Modern, lightweight, planet-scale link shortener for teams 🎉
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 
 ## Jupyter Notebook 
@@ -86,8 +83,6 @@
 
 ## Python 
 
-- [JinsoRaj/TelegramBots](https://github.com/JinsoRaj/TelegramBots) - This repository is for HacktoberFest 2022. Contribute Telegram bot source codes.
-- [microsoft/Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
 - [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
 - [guzmi89/qbittrclonebot](https://github.com/guzmi89/qbittrclonebot) - Qbittorrent + Rclone + Bot python-telegram
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -155,7 +150,6 @@
 - [grey-codes/RedditSharp](https://github.com/grey-codes/RedditSharp) - Angular Reddit client
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
-- [rocktimsaikia/binhub](https://github.com/rocktimsaikia/binhub) - 🗑️ Bulk removing Github repositories made easy  (public-beta)
 
 ## Vue 
 
