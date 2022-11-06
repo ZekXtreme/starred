@@ -49,6 +49,8 @@
 
 ## JavaScript 
 
+- [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks)
+- [MrDemonWolf/share](https://github.com/MrDemonWolf/share) - Simple yet advanced uploader.  Allows users to upload files,images, and text with moderation tools for admins. Can be used for friends and family or just for you.  Built with integration, like ShareX 
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [driiftkiing/plex-webhook](https://github.com/driiftkiing/plex-webhook) - Use Plex webhooks to push media notifications into Slack & Discord
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
@@ -114,6 +116,7 @@
 
 ## Rust 
 
+- [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [ayrat555/el_monitorro](https://github.com/ayrat555/el_monitorro) - 🐂 El Monitorro is a high-performance feed reader as a Telegram bot. It supports RSS, Atom and JSON feeds
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [devtomio/website-screenshot](https://github.com/devtomio/website-screenshot) - 📸 website screenshots as a service
@@ -141,6 +144,7 @@
 
 ## TypeScript 
 
+- [origranot/reduced.to](https://github.com/origranot/reduced.to) - Free Modern URL Reducer. Make sure to share love by giving it a star.🌟 Have a great day!
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 
