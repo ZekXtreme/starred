@@ -84,6 +84,7 @@
 
 ## Python 
 
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
 - [guzmi89/qbittrclonebot](https://github.com/guzmi89/qbittrclonebot) - Qbittorrent + Rclone + Bot python-telegram
@@ -124,6 +125,7 @@
 
 ## Shell 
 
+- [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) - An example of ready-to-run docker-compose for the Shelf App
 - [yesolutions/mirror-action](https://github.com/yesolutions/mirror-action) - A GitHub Action for mirroring your repository to a different remote repository
 - [Protektor-Desura/Archon](https://github.com/Protektor-Desura/Archon) - A Home Server for media streaming, game streaming, home automation and management.
 - [sam-6174/jellytin](https://github.com/sam-6174/jellytin) - 
