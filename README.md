@@ -49,6 +49,7 @@
 
 ## JavaScript 
 
+- [Towsif12/ShareX-Image-Server-Deta](https://github.com/Towsif12/ShareX-Image-Server-Deta) - ShareX Image upload server hosted in Deta
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [cglatot/pasta](https://github.com/cglatot/pasta) - Audio & Subtitle Track Changer for Plex
 - [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks)
