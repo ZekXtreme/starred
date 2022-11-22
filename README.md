@@ -6,6 +6,7 @@
 ## Contents
 
 - [C#](#c#)
+- [CSS](#css)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
@@ -25,6 +26,10 @@
 
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 
+## CSS 
+
+- [danricho/where_the](https://github.com/danricho/where_the) - A simple Python Flask web application which helps keep track of your stored items.
+
 ## Dockerfile 
 
 - [wei/rclone](https://github.com/wei/rclone) - Wraps the rclone CLI to be used in Github Actions
@@ -41,7 +46,6 @@
 
 ## HTML 
 
-- [danricho/where_the](https://github.com/danricho/where_the) - A simple Python Flask web application which helps keep track of your stored items.
 - [R4cc/Feedster](https://github.com/R4cc/Feedster) - A semi-minimal RSS reader written in ASP.NET Blazor
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [parnexcodes/discord-webhook-poster](https://github.com/parnexcodes/discord-webhook-poster) - Post Discord Webhooks easily!
