@@ -7,6 +7,7 @@
 
 - [C#](#c#)
 - [CSS](#css)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
@@ -29,6 +30,10 @@
 ## CSS 
 
 - [danricho/where_the](https://github.com/danricho/where_the) - A simple Python Flask web application which helps keep track of your stored items.
+
+## Dart 
+
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 
 ## Dockerfile 
 
@@ -55,7 +60,6 @@
 ## JavaScript 
 
 - [Towsif12/ShareX-Image-Server-Deta](https://github.com/Towsif12/ShareX-Image-Server-Deta) - ShareX Image upload server hosted in Deta
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [cglatot/pasta](https://github.com/cglatot/pasta) - Audio & Subtitle Track Changer for Plex
 - [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks)
 - [MrDemonWolf/share](https://github.com/MrDemonWolf/share) - Simple yet advanced uploader.  Allows users to upload files,images, and text with moderation tools for admins. Can be used for friends and family or just for you.  Built with integration, like ShareX 
@@ -149,6 +153,7 @@
 
 ## Svelte 
 
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
 - [haishanh/cherry](https://github.com/haishanh/cherry) - Cherry is a self-hostable bookmark service
 - [crackhub-dev/gamesdrive-link-encrypter](https://github.com/crackhub-dev/gamesdrive-link-encrypter) - Encrypt links with base64 and provide a noob-friendly way to decrypt
 
@@ -160,6 +165,7 @@
 
 ## Vue 
 
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Photo Management for Nextcloud
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 
