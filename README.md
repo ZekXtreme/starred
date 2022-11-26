@@ -95,6 +95,7 @@
 
 ## Python 
 
+- [teletips/PingAllBot-TeLeTiPs](https://github.com/teletips/PingAllBot-TeLeTiPs) - Powerful Telegram bot to get everyone's attention by mentioning all members in the chat. PingAll bot has some additional cool features and also it can work in channels. It's easy, fast and self deploy
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. 100% self-hosted, offline capable and easy to setup.
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
