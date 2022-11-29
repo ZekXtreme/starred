@@ -166,7 +166,7 @@
 
 ## Vue 
 
-- [pulsejet/memories](https://github.com/pulsejet/memories) - Photo Management for Nextcloud
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 
