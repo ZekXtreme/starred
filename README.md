@@ -115,8 +115,8 @@
 - [DanySK/torrent2magnet](https://github.com/DanySK/torrent2magnet) - A very simple Python 3 utility for converting .torrent files to magnet links
 - [buddhhu/PasteBin-Bot](https://github.com/buddhhu/PasteBin-Bot) - PasteBin Telegram Bot made using PastebinAPI in python.
 - [arunpt/Quotes-API](https://github.com/arunpt/Quotes-API) - Unofficial Goodreads (Quotes) API
-- [useragents/Snapchat-Snapscore-Botter](https://github.com/useragents/Snapchat-Snapscore-Botter) - Python-based Snapchat score booster using pyautogui module
-- [useragents/Proxyless-Spotify-Follow-Bot](https://github.com/useragents/Proxyless-Spotify-Follow-Bot) - Requests based multi-threaded script for increasing followers on Spotify
+- [useragents/Snapchat-Snapscore-Botter](https://github.com/useragents/Snapchat-Snapscore-Botter) - 🌟 Get MILLIONS of snapscore
+- [useragents/Proxyless-Spotify-Follow-Bot](https://github.com/useragents/Proxyless-Spotify-Follow-Bot) - 💚 UNLIMITED followers on Spotify profile
 - [phin05/discord-rich-presence-plex](https://github.com/phin05/discord-rich-presence-plex) - Display your Plex status on Discord using Rich Presence
 - [quenhus/uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Specific to dev websites like StackOverflow or GitHub.
 - [NameNami/OTP-Bot](https://github.com/NameNami/OTP-Bot) - Python OTP Bot (required twilio upgraded acc)
