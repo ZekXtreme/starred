@@ -70,7 +70,7 @@
 - [MrDemonWolf/share](https://github.com/MrDemonWolf/share) - Simple yet advanced uploader.  Allows users to upload files,images, and text with moderation tools for admins. Can be used for friends and family or just for you.  Built with integration, like ShareX 
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [driiftkiing/plex-webhook](https://github.com/driiftkiing/plex-webhook) - Use Plex webhooks to push media notifications into Slack & Discord
-- [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
+- [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [dishapatel010/workgraph](https://github.com/dishapatel010/workgraph) - 
 - [hahnavi/telbot-otp](https://github.com/hahnavi/telbot-otp) - OTP Server with Telegram Bot
 - [muety/anchr](https://github.com/muety/anchr) - ⚓️ Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections
@@ -126,7 +126,7 @@
 - [iwpnd/fastapi-key-auth](https://github.com/iwpnd/fastapi-key-auth) - FastAPI API key authorizer
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
-- [KB885/Less-Real-Data](https://github.com/KB885/Less-Real-Data) - :floppy_disk: Less-real.com data collection of anime/manga quotes
+- [JH885/Less-Real-Data](https://github.com/JH885/Less-Real-Data) - :floppy_disk: Less-real.com data collection of anime/manga quotes
 - [Profility/saucebot](https://github.com/Profility/saucebot) - A Discord bot that utilizes SauceNao API to find the source of the anime image.
 - [smallwat3r/shhh](https://github.com/smallwat3r/shhh) - Share sensitive info without leaving a trace in your chat logs or email accounts.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
