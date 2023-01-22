@@ -64,6 +64,7 @@
 
 ## JavaScript 
 
+- [wearrrrr/HaiKei](https://github.com/wearrrrr/HaiKei) - HaiKei is an anime streaming website that uses the consumet API
 - [Towsif12/ShareX-Image-Server-Deta](https://github.com/Towsif12/ShareX-Image-Server-Deta) - ShareX Image upload server hosted in Deta
 - [cglatot/pasta](https://github.com/cglatot/pasta) - Audio & Subtitle Track Changer for Plex
 - [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks)
