@@ -104,7 +104,7 @@
 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [cu/silicon](https://github.com/cu/silicon) - Silicon Notes, a web-based personal knowledge base with few frills
-- [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple
+- [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple.
 - [BC44/Release-Info-Creator](https://github.com/BC44/Release-Info-Creator) - Generates mediainfo and screenshots automatically given a video file
 - [hwkns/macguffin](https://github.com/hwkns/macguffin) - Automated tools for handling Scene and P2P film releases -- gather and verify metadata, take screenshots and upload them to an image host, create a .torrent file and upload it to a bittorrent tracker.
 - [kz26/dottorrent-gui](https://github.com/kz26/dottorrent-gui) - An advanced GUI torrent file creator with batch functionality, powered by PyQt and dottorrent
