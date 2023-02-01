@@ -121,7 +121,6 @@
 - [ArthureVarghese/Torrent-to-Magnet-Updated](https://github.com/ArthureVarghese/Torrent-to-Magnet-Updated) - A very simple Python 3 utility for converting .torrent files to magnet links
 - [nibrag/tg_torrents_converter](https://github.com/nibrag/tg_torrents_converter) - Telegram bots: Magnet to torrent and Torrent to magnet converter
 - [DanySK/torrent2magnet](https://github.com/DanySK/torrent2magnet) - A very simple Python 3 utility for converting .torrent files to magnet links
-- [buddhhu/PasteBin-Bot](https://github.com/buddhhu/PasteBin-Bot) - PasteBin Telegram Bot made using PastebinAPI in python.
 - [arunpt/Quotes-API](https://github.com/arunpt/Quotes-API) - Unofficial Goodreads (Quotes) API
 - [useragents/Snapchat-Snapscore-Botter](https://github.com/useragents/Snapchat-Snapscore-Botter) - 🌟 Get MILLIONS of snapscore
 - [useragents/Proxyless-Spotify-Follow-Bot](https://github.com/useragents/Proxyless-Spotify-Follow-Bot) - 💚 UNLIMITED followers on Spotify profile
