@@ -15,6 +15,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Nix](#nix)
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
@@ -93,6 +94,10 @@
 ## Kotlin 
 
 - [TwidereProject/TwidereX-Android](https://github.com/TwidereProject/TwidereX-Android) - Next generation of Twidere for Android
+
+## Nix 
+
+- [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote
 
 ## Others 
 
