@@ -20,7 +20,6 @@
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
-- [Smarty](#smarty)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -46,6 +45,7 @@
 
 - [wei/rclone](https://github.com/wei/rclone) - Wraps the rclone CLI to be used in Github Actions
 - [alecbcs/fly-restic](https://github.com/alecbcs/fly-restic) - Backup Any Rclone Remote to Another Using Restic on Fly.io
+- [lineageos-infra/fly-apps](https://github.com/lineageos-infra/fly-apps) - set of apps running on fly.io
 - [kubahorak/flyio-manet](https://github.com/kubahorak/flyio-manet) - Dockerfile and fly.toml for Manet website screenshot service
 - [matthewgall/flyapps](https://github.com/matthewgall/flyapps) - A repository of apps to deploy to fly.io services, easily!
 
@@ -170,10 +170,6 @@
 - [MattTennison/deploy-code-server](https://github.com/MattTennison/deploy-code-server) - Fork with Fly.io Support
 - [kotx/coder-fly](https://github.com/kotx/coder-fly) - Coder on Fly.io
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
-
-## Smarty 
-
-- [lineageos-infra/fly-apps](https://github.com/lineageos-infra/fly-apps) - set of apps running on fly.io
 
 ## Svelte 
 
