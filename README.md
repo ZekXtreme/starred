@@ -26,6 +26,7 @@
 
 ## C# # 
 
+- [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 
 ## C++ 
@@ -58,6 +59,7 @@
 
 ## HTML 
 
+- [w3c/wai-about-wai](https://github.com/w3c/wai-about-wai) - 
 - [R4cc/Feedster](https://github.com/R4cc/Feedster) - A semi-minimal RSS reader written in ASP.NET Blazor
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [parnexcodes/discord-webhook-poster](https://github.com/parnexcodes/discord-webhook-poster) - Post Discord Webhooks easily!
@@ -108,6 +110,7 @@
 
 ## Python 
 
+- [Lostvale0/latest-revanced](https://github.com/Lostvale0/latest-revanced) - Get the latest and greatest revanced builds!
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [sachin0raon/GdriveSearch-WebUI](https://github.com/sachin0raon/GdriveSearch-WebUI) - A simple web interface for searching files stored in your Google drives.
