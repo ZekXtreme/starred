@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [C](#c)
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
@@ -24,6 +25,10 @@
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+
+## C 
+
+- [alifcommunity/webui](https://github.com/alifcommunity/webui) - Use any web browser as GUI, with your preferred language in the backend, and HTML/JS/TS/CSS in the frontend.
 
 ## C# # 
 
