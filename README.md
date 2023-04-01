@@ -120,6 +120,7 @@
 
 ## Python 
 
+- [NDDDDDDDDD/TrackerChecker](https://github.com/NDDDDDDDDD/TrackerChecker) - Just a really simple program that checks if normally private trackers are open to registration.  Feedback and tracker recommendations are very much appreciated!
 - [bubonic/pimgupme](https://github.com/bubonic/pimgupme) - ptpimg.me uploader with support for thumbnails and bbcode
 - [Lostvale0/latest-revanced](https://github.com/Lostvale0/latest-revanced) - Get the latest and greatest revanced builds!
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
@@ -155,7 +156,7 @@
 - [k2cn/Less-Real-Data](https://github.com/k2cn/Less-Real-Data) - :floppy_disk: Less-real.com data collection of anime/manga quotes
 - [Profility/saucebot](https://github.com/Profility/saucebot) - A Discord bot that utilizes SauceNao API to find the source of the anime image.
 - [smallwat3r/shhh](https://github.com/smallwat3r/shhh) - Share sensitive info without leaving a trace in your chat logs or email accounts.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
 - [python-geeks/Automation-scripts](https://github.com/python-geeks/Automation-scripts) - Repo for creating awesome automation scripts to make my panda lazier
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [gautamajay52/mySPOTIFY](https://github.com/gautamajay52/mySPOTIFY) - A Simple Telegram Bot, which will send you current playing song's lyrics from Spotify to telegram
