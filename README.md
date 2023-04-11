@@ -18,7 +18,6 @@
 - [Kotlin](#kotlin)
 - [Markdown](#markdown)
 - [Others](#others)
-- [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -114,10 +113,6 @@
 - [DRSDavidSoft/additional-hosts](https://github.com/DRSDavidSoft/additional-hosts) - 🛡 List of categorized undesired hosts
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
-## PHP 
-
-- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
-
 ## Python 
 
 - [NDDDDDDDDD/TrackerChecker](https://github.com/NDDDDDDDDD/TrackerChecker) - Just a really simple program that checks if normally private trackers are open to registration.  Feedback and tracker recommendations are very much appreciated!
@@ -202,6 +197,7 @@
 
 ## Vue 
 
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 
