@@ -115,6 +115,8 @@
 
 ## Python 
 
+- [kannibalox/PtpUploader](https://github.com/kannibalox/PtpUploader) - PtpUploader is a bot that automatically uploads releases to PTP.
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [NDDDDDDDDD/TrackerChecker](https://github.com/NDDDDDDDDD/TrackerChecker) - Just a really simple program that checks if normally private trackers are open to registration.  Feedback and tracker recommendations are very much appreciated!
 - [bubonic/pimgupme](https://github.com/bubonic/pimgupme) - ptpimg.me uploader with support for thumbnails and bbcode
 - [Lostvale0/latest-revanced](https://github.com/Lostvale0/latest-revanced) - Get the latest and greatest revanced builds!
