@@ -28,7 +28,7 @@
 
 ## C 
 
-- [alifcommunity/webui](https://github.com/alifcommunity/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
+- [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
 
 ## C# # 
 
