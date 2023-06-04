@@ -155,7 +155,7 @@
 - [iwpnd/fastapi-key-auth](https://github.com/iwpnd/fastapi-key-auth) - FastAPI API key authorizer
 - [s0md3v/Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite.
 - [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
-- [k2cn/Less-Real-Data](https://github.com/k2cn/Less-Real-Data) - :floppy_disk: Less-real.com data collection of anime/manga quotes
+- [Decode84/Less-Real-Data](https://github.com/Decode84/Less-Real-Data) - :floppy_disk: Less-real.com data collection of anime/manga quotes
 - [Profility/saucebot](https://github.com/Profility/saucebot) - A Discord bot that utilizes SauceNao API to find the source of the anime image.
 - [smallwat3r/shhh](https://github.com/smallwat3r/shhh) - Share sensitive info without leaving a trace in your chat logs or email accounts.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
