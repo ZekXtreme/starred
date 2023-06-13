@@ -56,7 +56,6 @@
 
 ## Dockerfile 
 
-- [wei/rclone](https://github.com/wei/rclone) - Wraps the rclone CLI to be used in Github Actions
 - [alecbcs/fly-restic](https://github.com/alecbcs/fly-restic) - Backup Any Rclone Remote to Another Using Restic on Fly.io
 - [lineageos-infra/fly-apps](https://github.com/lineageos-infra/fly-apps) - set of apps running on fly.io
 - [kubahorak/flyio-manet](https://github.com/kubahorak/flyio-manet) - Dockerfile and fly.toml for Manet website screenshot service
