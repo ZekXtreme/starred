@@ -133,7 +133,6 @@
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [NDDDDDDDDD/TrackerChecker](https://github.com/NDDDDDDDDD/TrackerChecker) - Just a really simple program that checks if normally private trackers are open to registration.  Feedback and tracker recommendations are very much appreciated!
 - [bubonic/pimgupme](https://github.com/bubonic/pimgupme) - ptpimg.me uploader with support for thumbnails and bbcode
-- [Lostvale0/latest-revanced](https://github.com/Lostvale0/latest-revanced) - Get the latest and greatest revanced builds!
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [sachin0raon/GdriveSearch-WebUI](https://github.com/sachin0raon/GdriveSearch-WebUI) - A simple web interface for searching files stored in your Google drives.
