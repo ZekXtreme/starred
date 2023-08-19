@@ -123,6 +123,7 @@
 
 ## Python 
 
+- [mautrix/telegram](https://github.com/mautrix/telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
 - [JohnDoee/autotorrent](https://github.com/JohnDoee/autotorrent) - Matches torrents with files and gets them seeded
 - [theirix/ptpimg-uploader](https://github.com/theirix/ptpimg-uploader) - Upload images to ptpimg
 - [kannibalox/PtpUploader](https://github.com/kannibalox/PtpUploader) - PtpUploader is a bot that automatically uploads releases to PTP.
