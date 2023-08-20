@@ -123,6 +123,7 @@
 
 ## Python 
 
+- [SanketDG/batuli](https://github.com/SanketDG/batuli) - An utility IRC bot for ##testbot.
 - [mautrix/telegram](https://github.com/mautrix/telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
 - [JohnDoee/autotorrent](https://github.com/JohnDoee/autotorrent) - Matches torrents with files and gets them seeded
 - [theirix/ptpimg-uploader](https://github.com/theirix/ptpimg-uploader) - Upload images to ptpimg
