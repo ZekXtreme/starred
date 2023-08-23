@@ -123,6 +123,7 @@
 
 ## Python 
 
+- [ZekxDump/GithubTGBot](https://github.com/ZekxDump/GithubTGBot) - 
 - [SanketDG/batuli](https://github.com/SanketDG/batuli) - An utility IRC bot for ##testbot.
 - [mautrix/telegram](https://github.com/mautrix/telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
 - [JohnDoee/autotorrent](https://github.com/JohnDoee/autotorrent) - Matches torrents with files and gets them seeded
@@ -181,6 +182,7 @@
 
 ## Shell 
 
+- [jdbean/github-api-bulk-transfer](https://github.com/jdbean/github-api-bulk-transfer) - A utility for transferring multiple GitHub repositories to a new owner.
 - [jetbalsa/smount-plus](https://github.com/jetbalsa/smount-plus) - a bash script to find all Google Team Drives you have access to and make a rclone mount of them all
 - [onedr0p/qbittorrent-prune](https://github.com/onedr0p/qbittorrent-prune) - Remove torrents from qBittorrent that are reported unregistered by a tracker
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
