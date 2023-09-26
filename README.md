@@ -59,6 +59,7 @@
 
 ## Go 
 
+- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
 - [akshettrj/watgbridge](https://github.com/akshettrj/watgbridge) - A forwarder from WhatsApp to Telegram written in GoLang
 - [HirbodBehnam/RedditDownloaderBot](https://github.com/HirbodBehnam/RedditDownloaderBot) - A reddit downloader telegram bot
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
@@ -66,6 +67,7 @@
 
 ## HTML 
 
+- [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [w3c/wai-about-wai](https://github.com/w3c/wai-about-wai) - 
 - [R4cc/Feedster](https://github.com/R4cc/Feedster) - A semi-minimal RSS reader written in ASP.NET Blazor
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
@@ -200,6 +202,7 @@
 
 ## TypeScript 
 
+- [Likenttt/eastlake-cloudflare-worker-short-url](https://github.com/Likenttt/eastlake-cloudflare-worker-short-url) - A short url system based on cloudflare worker
 - [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) - Puts Docker Containers to sleep and wakes them back up when they're needed
 - [pashword/pashword](https://github.com/pashword/pashword) - 🔒 Pashword - Never forget passwords ever again! Free and Open Source Hashed Password Generator
