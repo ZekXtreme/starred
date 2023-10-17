@@ -131,6 +131,7 @@
 
 ## Python 
 
+- [developerrahulofficial/anime-notifier](https://github.com/developerrahulofficial/anime-notifier) - 
 - [ZekxDump/GithubTGBot](https://github.com/ZekxDump/GithubTGBot) - 
 - [SanketDG/batuli](https://github.com/SanketDG/batuli) - An utility IRC bot for ##testbot.
 - [mautrix/telegram](https://github.com/mautrix/telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
