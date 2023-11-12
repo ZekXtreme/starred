@@ -126,6 +126,7 @@
 
 ## Python 
 
+- [Akshay090/colab-cli](https://github.com/Akshay090/colab-cli) - ✨Experience better workflow with google colab, local jupyter notebooks and git
 - [adenosinetp10/Akinator-Bot](https://github.com/adenosinetp10/Akinator-Bot) - Telegram Bot for playing the Akinator guessing game.(Unofficial)
 - [Khayoon/Reddit-Crawler](https://github.com/Khayoon/Reddit-Crawler) - The "Reddit Image Crawler" is a Python script that facilitates the extraction and downloading of image and gifs URLs from a specified subreddit on Reddit. It also includes functionalities to download 
 - [developerrahulofficial/anime-notifier](https://github.com/developerrahulofficial/anime-notifier) - 
