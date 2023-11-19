@@ -41,6 +41,7 @@
 
 ## C++ 
 
+- [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [mbruel/ngPost](https://github.com/mbruel/ngPost) - Command Line (or minimalist GUI) usenet poster for binaries developped in C++/QT designed to be as fast as possible and offer all the main features to post data easily and safely. Releases for Linux, 
 
 ## CSS 
@@ -118,6 +119,7 @@
 
 ## Others 
 
+- [DaringCuteSeal/plasma6-walls](https://github.com/DaringCuteSeal/plasma6-walls) - Plasma 6 Wallpapers Submission
 - [justdomains/blocklists](https://github.com/justdomains/blocklists) - Domain-ONLY Filter Lists (for use with DNS / Domain blocking tools)
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -132,7 +134,6 @@
 - [adenosinetp10/Akinator-Bot](https://github.com/adenosinetp10/Akinator-Bot) - Telegram Bot for playing the Akinator guessing game.(Unofficial)
 - [Khayoon/Reddit-Crawler](https://github.com/Khayoon/Reddit-Crawler) - The "Reddit Image Crawler" is a Python script that facilitates the extraction and downloading of image and gifs URLs from a specified subreddit on Reddit. It also includes functionalities to download 
 - [developerrahulofficial/anime-notifier](https://github.com/developerrahulofficial/anime-notifier) - 
-- [ZekxDump/GithubTGBot](https://github.com/ZekxDump/GithubTGBot) - 
 - [SanketDG/batuli](https://github.com/SanketDG/batuli) - An utility IRC bot for ##testbot.
 - [mautrix/telegram](https://github.com/mautrix/telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
 - [JohnDoee/autotorrent](https://github.com/JohnDoee/autotorrent) - Matches torrents with files and gets them seeded
