@@ -13,6 +13,7 @@
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
@@ -62,10 +63,11 @@
 
 ## Go 
 
+- [jayson-lennon/ztm-golang](https://github.com/jayson-lennon/ztm-golang) - Source files for the Go language course on zerotomastery.io
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
-- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
 - [akshettrj/watgbridge](https://github.com/akshettrj/watgbridge) - A forwarder from WhatsApp to Telegram written in GoLang
 - [HirbodBehnam/RedditDownloaderBot](https://github.com/HirbodBehnam/RedditDownloaderBot) - A reddit downloader telegram bot
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🥚
@@ -80,6 +82,10 @@
 - [parnexcodes/discord-webhook-poster](https://github.com/parnexcodes/discord-webhook-poster) - Post Discord Webhooks easily!
 - [foxt/UltraShare](https://github.com/foxt/UltraShare) - UltraShare is a all in one server for screenshots, files, images, and links.
 - [berrysauce/thisday.link](https://github.com/berrysauce/thisday.link) - Secure link shortener with 24h valid links 🔒
+
+## Java 
+
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 
 ## JavaScript 
 
@@ -122,6 +128,7 @@
 
 ## Others 
 
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [DaringCuteSeal/plasma6-walls](https://github.com/DaringCuteSeal/plasma6-walls) - Plasma 6 Wallpapers Submission
 - [justdomains/blocklists](https://github.com/justdomains/blocklists) - Domain-ONLY Filter Lists (for use with DNS / Domain blocking tools)
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
@@ -133,6 +140,7 @@
 
 ## Python 
 
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [Akshay090/colab-cli](https://github.com/Akshay090/colab-cli) - ✨Experience better workflow with google colab, local jupyter notebooks and git
 - [adenosinetp10/Akinator-Bot](https://github.com/adenosinetp10/Akinator-Bot) - Telegram Bot for playing the Akinator guessing game.(Unofficial)
 - [Khayoon/Reddit-Crawler](https://github.com/Khayoon/Reddit-Crawler) - The "Reddit Image Crawler" is a Python script that facilitates the extraction and downloading of image and gifs URLs from a specified subreddit on Reddit. It also includes functionalities to download 
