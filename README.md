@@ -140,6 +140,7 @@
 
 ## Python 
 
+- [ra83205/google-bard-api](https://github.com/ra83205/google-bard-api) - This project provides a FastAPI wrapper for interacting with Google Bard, a conversational AI by Google. It allows users to send messages to Google Bard and receive responses through a simple API.
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [Akshay090/colab-cli](https://github.com/Akshay090/colab-cli) - ✨Experience better workflow with google colab, local jupyter notebooks and git
 - [adenosinetp10/Akinator-Bot](https://github.com/adenosinetp10/Akinator-Bot) - Telegram Bot for playing the Akinator guessing game.(Unofficial)
@@ -203,6 +204,8 @@
 
 ## Shell 
 
+- [Typhon0/Arch-Cleaner](https://github.com/Typhon0/Arch-Cleaner) - Shell script to clean Arch Linux
+- [pixelb/scripts](https://github.com/pixelb/scripts) - scripts from pixelbeat.org
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [jdbean/github-api-bulk-transfer](https://github.com/jdbean/github-api-bulk-transfer) - A utility for transferring multiple GitHub repositories to a new owner.
 - [jetbalsa/smount-plus](https://github.com/jetbalsa/smount-plus) - a bash script to find all Google Team Drives you have access to and make a rclone mount of them all
