@@ -230,7 +230,6 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [tycrek/ass](https://github.com/tycrek/ass) - The simple self-hosted ShareX server
-- [Likenttt/eastlake-cloudflare-worker-short-url](https://github.com/Likenttt/eastlake-cloudflare-worker-short-url) - A short url system based on cloudflare worker
 - [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) - Puts Docker Containers to sleep and wakes them back up when they're needed
 - [pashword/pashword](https://github.com/pashword/pashword) - 🔒 Pashword - Never forget passwords ever again! Free and Open Source Hashed Password Generator
