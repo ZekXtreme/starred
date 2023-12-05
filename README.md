@@ -128,6 +128,7 @@
 
 ## Others 
 
+- [xeleh/on-telegram](https://github.com/xeleh/on-telegram) - A curated list of Telegram groups/channels so you don't have to bother searching
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [DaringCuteSeal/plasma6-walls](https://github.com/DaringCuteSeal/plasma6-walls) - Plasma 6 Wallpapers Submission
 - [justdomains/blocklists](https://github.com/justdomains/blocklists) - Domain-ONLY Filter Lists (for use with DNS / Domain blocking tools)
