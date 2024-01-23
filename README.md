@@ -56,6 +56,7 @@
 
 ## Dart 
 
+- [roshanrahman/flutter-notes-app](https://github.com/roshanrahman/flutter-notes-app) - A notes taking app written in Flutter
 - [dart-lang/dart-pad](https://github.com/dart-lang/dart-pad) - An online Dart editor with support for console, web, and Flutter apps
 
 ## Dockerfile 
