@@ -101,7 +101,7 @@
 - [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
 - [wearrrrr/HaiKei](https://github.com/wearrrrr/HaiKei) - HaiKei is an anime streaming website that uses the consumet API
-- [Towsif12/ShareX-Image-Server-Deta](https://github.com/Towsif12/ShareX-Image-Server-Deta) - ShareX Image upload server hosted in Deta
+- [towsifkafi/ShareX-Image-Server-Deta](https://github.com/towsifkafi/ShareX-Image-Server-Deta) - ShareX Image upload server hosted in Deta
 - [cglatot/pasta](https://github.com/cglatot/pasta) - Audio & Subtitle Track Changer for Plex
 - [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
