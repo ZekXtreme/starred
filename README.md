@@ -34,6 +34,7 @@
 
 ## C 
 
+- [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 - [webui-dev/webui](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
 
@@ -56,6 +57,8 @@
 
 ## Dart 
 
+- [The-ring-io/flutter_staggered_animations](https://github.com/The-ring-io/flutter_staggered_animations) - Easily add staggered animations to your ListView, GridView, Column and Row children.
+- [asjqkkkk/flutter-todos](https://github.com/asjqkkkk/flutter-todos) - 📝 one day list app created by flutter!
 - [roshanrahman/flutter-notes-app](https://github.com/roshanrahman/flutter-notes-app) - A notes taking app written in Flutter
 - [dart-lang/dart-pad](https://github.com/dart-lang/dart-pad) - An online Dart editor with support for console, web, and Flutter apps
 
