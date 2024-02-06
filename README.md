@@ -40,6 +40,7 @@
 
 ## C# # 
 
+- [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 
