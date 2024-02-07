@@ -58,6 +58,7 @@
 
 ## Dart 
 
+- [bilguunint/movieapp](https://github.com/bilguunint/movieapp) - Flutter Movie app using rest api, bloc pattern
 - [The-ring-io/flutter_staggered_animations](https://github.com/The-ring-io/flutter_staggered_animations) - Easily add staggered animations to your ListView, GridView, Column and Row children.
 - [asjqkkkk/flutter-todos](https://github.com/asjqkkkk/flutter-todos) - 📝 one day list app created by flutter!
 - [roshanrahman/flutter-notes-app](https://github.com/roshanrahman/flutter-notes-app) - A notes taking app written in Flutter
@@ -152,6 +153,7 @@
 
 ## Python 
 
+- [gurland/telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete all your messages in groups / supergroups using this python script
 - [alcortazzo/telegram-saucenao](https://github.com/alcortazzo/telegram-saucenao) - Telegram bot for finding sources of anime images via SauceNao API
 - [Jwink3101/dfb](https://github.com/Jwink3101/dfb) - Full-file, append-only, backups that can be easily restored to any point in time. Can backup to and from *any* rclone remote
 - [ra83205/google-bard-api](https://github.com/ra83205/google-bard-api) - This project provides a FastAPI wrapper for interacting with Google Bard, a conversational AI by Google. It allows users to send messages to Google Bard and receive responses through a simple API.
@@ -209,6 +211,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [afonsojramos/discrakt](https://github.com/afonsojramos/discrakt) - The Trakt 🎥 Plex ▶️ Discord 🎮 Rich Presence that you didn't know you needed.
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [ayrat555/el_monitorro](https://github.com/ayrat555/el_monitorro) - 🐂 El Monitorro is a high-performance feed reader as a Telegram bot. It supports RSS, Atom and JSON feeds
