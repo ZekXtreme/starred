@@ -154,6 +154,7 @@
 
 ## Python 
 
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [gurland/telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete all your messages in groups / supergroups using this python script
 - [alcortazzo/telegram-saucenao](https://github.com/alcortazzo/telegram-saucenao) - Telegram bot for finding sources of anime images via SauceNao API
 - [Jwink3101/dfb](https://github.com/Jwink3101/dfb) - Full-file, append-only, backups that can be easily restored to any point in time. Can backup to and from *any* rclone remote
