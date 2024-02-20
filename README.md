@@ -101,6 +101,7 @@
 
 ## JavaScript 
 
+- [Ilyas-Codes/eCourse](https://github.com/Ilyas-Codes/eCourse) - A self-hosted SPA to simplify course creation and management
 - [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
 - [Infomaniak/kpaste](https://github.com/Infomaniak/kpaste) - Infomaniak paste
 - [jstayton/suri](https://github.com/jstayton/suri) - Your own link shortener that's easily deployed as a static site (for free)
@@ -120,7 +121,7 @@
 - [robvanderleek/capture-website-api](https://github.com/robvanderleek/capture-website-api) - Capture screenshots of websites as a (host it yourself) API
 - [elestio/ws-screenshot](https://github.com/elestio/ws-screenshot) - A simple way to take a screenshot of a website by providing its URL. ws-screenshot include a simple web UI but also a REST API and a Websocket API to automate screenshots.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built in top of Puppeteer.
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built on top of puppeteer.
 - [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story) - A serverless Pastebin that allows users to share text content through a link
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [muan/discord-webhooks](https://github.com/muan/discord-webhooks) - A server processing webhook data from Heroku and passing them to Discord, deployed to Vercel.
@@ -256,7 +257,7 @@
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) - Puts Docker Containers to sleep and wakes them back up when they're needed
 - [pashword/pashword](https://github.com/pashword/pashword) - 🔒 Pashword - Never forget passwords ever again! Free and Open Source Hashed Password Generator
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using
 - [origranot/reduced.to](https://github.com/origranot/reduced.to) - Free Modern URL Reducer. Make sure to share love by giving it a star.🌟 Have a great day!
 - [haishanh/cherry](https://github.com/haishanh/cherry) - Cherry is a self-hostable bookmark service
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
