@@ -41,6 +41,7 @@
 ## C# # 
 
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 
@@ -172,7 +173,6 @@
 - [JohnDoee/autotorrent](https://github.com/JohnDoee/autotorrent) - Matches torrents with files and gets them seeded
 - [theirix/ptpimg-uploader](https://github.com/theirix/ptpimg-uploader) - Upload images to ptpimg
 - [kannibalox/PtpUploader](https://github.com/kannibalox/PtpUploader) - PtpUploader is a bot that automatically uploads releases to PTP.
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [NDDDDDDDDD/TrackerChecker](https://github.com/NDDDDDDDDD/TrackerChecker) - Just a really simple program that checks if normally private trackers are open to registration.  Feedback and tracker recommendations are very much appreciated!
 - [bubonic/pimgupme](https://github.com/bubonic/pimgupme) - ptpimg.me uploader with support for thumbnails and bbcode
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
