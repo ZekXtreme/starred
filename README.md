@@ -158,6 +158,7 @@
 
 ## Python 
 
+- [rohankishore/Youtility](https://github.com/rohankishore/Youtility) - YouTube downloader tools built with PyQt6 and PyTube
 - [krypton-byte/neonize](https://github.com/krypton-byte/neonize) - whatsapp automation library, written in python
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [gurland/telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete all your messages in groups / supergroups using this python script
@@ -253,6 +254,7 @@
 
 ## TypeScript 
 
+- [chamanbravo/upstat](https://github.com/chamanbravo/upstat) - a simple open-source, self-hosted status monitoring tool
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
