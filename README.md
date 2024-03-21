@@ -20,7 +20,6 @@
 - [Kotlin](#kotlin)
 - [Markdown](#markdown)
 - [Others](#others)
-- [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -146,6 +145,7 @@
 
 ## Others 
 
+- [ItIsMeCall911/Course-Piracy-Index](https://github.com/ItIsMeCall911/Course-Piracy-Index) - Course Piracy Index 🏴‍☠️
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [xeleh/on-telegram](https://github.com/xeleh/on-telegram) - A curated list of Telegram groups/channels. Enjoy!
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -157,10 +157,6 @@
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) - An example of Shelf Cloud ready-to-run docker-compose
 - [DRSDavidSoft/additional-hosts](https://github.com/DRSDavidSoft/additional-hosts) - 🛡 List of categorized undesired hosts
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-
-## PHP 
-
-- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 
 ## Python 
 
@@ -277,6 +273,7 @@
 
 ## Vue 
 
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 
