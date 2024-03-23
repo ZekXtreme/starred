@@ -54,6 +54,7 @@
 
 ## CSS 
 
+- [solvethebug/Flip-Card-Effect](https://github.com/solvethebug/Flip-Card-Effect) - 
 - [defaultnamehere/verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
 - [danricho/where_the](https://github.com/danricho/where_the) - A simple Python Flask web application which helps keep track of your stored items.
 
