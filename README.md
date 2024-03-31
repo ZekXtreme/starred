@@ -20,7 +20,6 @@
 - [Kotlin](#kotlin)
 - [Markdown](#markdown)
 - [Others](#others)
-- [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -161,12 +160,9 @@
 - [DRSDavidSoft/additional-hosts](https://github.com/DRSDavidSoft/additional-hosts) - 🛡 List of categorized undesired hosts
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
-## PHP 
-
-- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
-
 ## Python 
 
+- [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [rohankishore/Youtility](https://github.com/rohankishore/Youtility) - YouTube downloader tools built with PyQt6 and PyTube
 - [krypton-byte/neonize](https://github.com/krypton-byte/neonize) - whatsapp automation library, written in python
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -280,6 +276,7 @@
 
 ## Vue 
 
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 
