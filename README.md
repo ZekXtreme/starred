@@ -235,6 +235,7 @@
 
 ## Shell 
 
+- [mxrch/golang-tools-install-script](https://github.com/mxrch/golang-tools-install-script) - Simple Bash script to automate Go language tools single user installation or even removal.
 - [Spearfoot/disk-burnin-and-testing](https://github.com/Spearfoot/disk-burnin-and-testing) - Shell script for burn-in and testing of new or re-purposed drives
 - [Typhon0/Arch-Cleaner](https://github.com/Typhon0/Arch-Cleaner) - Shell script to clean Arch Linux
 - [pixelb/scripts](https://github.com/pixelb/scripts) - scripts from pixelbeat.org
