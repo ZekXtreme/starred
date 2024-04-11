@@ -62,6 +62,7 @@
 
 ## Dart 
 
+- [avdept/JellyBoxPlayer](https://github.com/avdept/JellyBoxPlayer) - Jellyfin crossplatform client
 - [bilguunint/movieapp](https://github.com/bilguunint/movieapp) - Flutter Movie app using rest api, bloc pattern
 - [The-ring-io/flutter_staggered_animations](https://github.com/The-ring-io/flutter_staggered_animations) - Easily add staggered animations to your ListView, GridView, Column and Row children.
 - [asjqkkkk/flutter-todos](https://github.com/asjqkkkk/flutter-todos) - 📝 one day list app created by flutter!
