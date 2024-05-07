@@ -70,6 +70,7 @@
 
 ## Dart 
 
+- [LinwoodDev/Qeck](https://github.com/LinwoodDev/Qeck) - WIP: Play games with/without internet with your friends
 - [avdept/JellyBoxPlayer](https://github.com/avdept/JellyBoxPlayer) - Native desktop and mobile client for Jellyfin
 - [bilguunint/movieapp](https://github.com/bilguunint/movieapp) - Flutter Movie app using rest api, bloc pattern
 - [The-ring-io/flutter_staggered_animations](https://github.com/The-ring-io/flutter_staggered_animations) - Easily add staggered animations to your ListView, GridView, Column and Row children.
