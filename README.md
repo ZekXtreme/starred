@@ -95,7 +95,7 @@
 
 ## Go 
 
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A selfhosted dashboard that puts all your feeds in one place
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [ybizeul/ybFeed](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images.
