@@ -168,6 +168,7 @@
 
 ## Kotlin 
 
+- [Lambada10/SongSync](https://github.com/Lambada10/SongSync) - Android app to download lyrics (.lrc files) for songs in your music library.
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 - [vitormarcal/chatvault](https://github.com/vitormarcal/chatvault) - WhatsApp convo backups.. Features directory import, auto email backup, and a user-friendly frontend.  View messages effortlessly.
 - [TwidereProject/TwidereX-Android](https://github.com/TwidereProject/TwidereX-Android) - Next generation of Twidere for Android
@@ -309,6 +310,7 @@
 
 ## TypeScript 
 
+- [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [snypy/snypy-frontend](https://github.com/snypy/snypy-frontend) - Open source code snippet organizer for developers
