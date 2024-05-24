@@ -73,7 +73,7 @@
 
 ## Dart 
 
-- [LinwoodDev/Qeck](https://github.com/LinwoodDev/Qeck) - WIP: Play games with/without internet with your friends
+- [LinwoodDev/Quokka](https://github.com/LinwoodDev/Quokka) - WIP: Play games with/without internet with your friends
 - [avdept/JellyBoxPlayer](https://github.com/avdept/JellyBoxPlayer) - Native desktop and mobile client for Jellyfin
 - [bilguunint/movieapp](https://github.com/bilguunint/movieapp) - Flutter Movie app using rest api, bloc pattern
 - [The-ring-io/flutter_staggered_animations](https://github.com/The-ring-io/flutter_staggered_animations) - Easily add staggered animations to your ListView, GridView, Column and Row children.
@@ -96,6 +96,7 @@
 
 ## Go 
 
+- [joohoi/acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
@@ -208,6 +209,7 @@
 
 ## Python 
 
+- [EmmS21/daggerverse](https://github.com/EmmS21/daggerverse) - A collection of Dagger modules I built and published
 - [subinps/InstaFeed](https://github.com/subinps/InstaFeed) - get your Instagram feeds on your telegram channel
 - [Dayhawk007/musicx](https://github.com/Dayhawk007/musicx) - A python script which downloads any song on your device just by the name of it
 - [cu/silicon](https://github.com/cu/silicon) - Silicon Notes, a web-based personal knowledge base with few frills
