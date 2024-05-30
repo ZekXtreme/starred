@@ -98,6 +98,7 @@
 
 ## Go 
 
+- [pluja/blogo](https://github.com/pluja/blogo) - A lightweight blogging engine that backs itself up to Nostr!
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [joohoi/acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -136,7 +137,6 @@
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
-- [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A jungle gym for thought with an API for the mind.
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
@@ -312,6 +312,7 @@
 ## Svelte 
 
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
+- [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A jungle gym for thought with an API for the mind.
 - [MaximilianHeidenreich/SweetLink](https://github.com/MaximilianHeidenreich/SweetLink) - A lightweight but powerful URL shortener for Deta Space.
 - [crackhub-dev/gamesdrive-link-encrypter](https://github.com/crackhub-dev/gamesdrive-link-encrypter) - Encrypt links with base64 and provide a noob-friendly way to decrypt
 
