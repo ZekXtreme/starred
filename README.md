@@ -212,6 +212,7 @@
 
 ## Python 
 
+- [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
 - [EmmS21/daggerverse](https://github.com/EmmS21/daggerverse) - A collection of Dagger modules I built and published
 - [subinps/InstaFeed](https://github.com/subinps/InstaFeed) - get your Instagram feeds on your telegram channel
 - [Dayhawk007/musicx](https://github.com/Dayhawk007/musicx) - A python script which downloads any song on your device just by the name of it
