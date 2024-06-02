@@ -134,6 +134,7 @@
 
 ## JavaScript 
 
+- [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
 - [fmartinou/whats-up-docker](https://github.com/fmartinou/whats-up-docker) - What's up Docker ( aka WUD ) gets you notified when a new version of your Docker Container is available.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
