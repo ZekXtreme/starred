@@ -155,7 +155,7 @@
 - [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
-- [dishapatel010/workgraph](https://github.com/dishapatel010/workgraph) - 
+- [xdwtf/workgraph](https://github.com/xdwtf/workgraph) - 
 - [hahnavi/telbot-otp](https://github.com/hahnavi/telbot-otp) - OTP Server with Telegram Bot
 - [muety/anchr](https://github.com/muety/anchr) - ⚓️ Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
