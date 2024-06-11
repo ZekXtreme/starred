@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -30,6 +31,10 @@
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+
+## Astro 
+
+- [evadecker/eva.town](https://github.com/evadecker/eva.town) - A digital garden by Eva Decker, design engineer.
 
 ## Batchfile 
 
@@ -100,11 +105,12 @@
 
 ## Go 
 
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [nixys/nxs-backup](https://github.com/nixys/nxs-backup) - The tool for creating, delivering and rotating backups for GNU/Linux distributions.
 - [pluja/blogo](https://github.com/pluja/blogo) - A lightweight blogging engine that backs itself up to Nostr!
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [joohoi/acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [ybizeul/ybFeed](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images.
@@ -215,6 +221,8 @@
 
 ## Python 
 
+- [bernardolsp/nginx-manager-watcher](https://github.com/bernardolsp/nginx-manager-watcher) - 
+- [bob-discord-bot/bob](https://github.com/bob-discord-bot/bob) - a plug-n-play Discord chat bot
 - [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
 - [EmmS21/daggerverse](https://github.com/EmmS21/daggerverse) - A collection of Dagger modules I built and published
 - [subinps/InstaFeed](https://github.com/subinps/InstaFeed) - get your Instagram feeds on your telegram channel
