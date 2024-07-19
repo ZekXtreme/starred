@@ -154,7 +154,6 @@
 - [NayamAmarshe/MagLit](https://github.com/NayamAmarshe/MagLit) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
 - [Ilyas-Codes/eCourse](https://github.com/Ilyas-Codes/eCourse) - A self-hosted SPA to simplify course creation and management
 - [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
-- [Infomaniak/kpaste](https://github.com/Infomaniak/kpaste) - Infomaniak paste
 - [jstayton/suri](https://github.com/jstayton/suri) - Your own link shortener that's easily deployed as a static site (for free)
 - [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server) - AKA ShareS - Feature full & Stable ShareX and file server in node. Includes images, videos, code, text, markdown rendering, password protected uploads, logging via discord, administration through Disc
 - [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
@@ -341,6 +340,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
 - [chamanbravo/upstat](https://github.com/chamanbravo/upstat) - 🟢 a simple open-source, self-hosted status monitoring tool
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
+- [Infomaniak/kpaste](https://github.com/Infomaniak/kpaste) - Infomaniak paste
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [tycrek/ass](https://github.com/tycrek/ass) - The simple self-hosted ShareX server
