@@ -85,7 +85,7 @@
 - [rohan20/flutter-chat-app](https://github.com/rohan20/flutter-chat-app) - A chat app built on Flutter with firebase authentication and image sharing capability.
 - [burhanrashid52/WhatTodo](https://github.com/burhanrashid52/WhatTodo) - A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern. You can add a project, labels, and due-date to your task also you can sort your task on the ba
 - [LinwoodDev/Quokka](https://github.com/LinwoodDev/Quokka) - WIP: Play games with/without internet with your friends
-- [avdept/JellyBoxPlayer](https://github.com/avdept/JellyBoxPlayer) - Native desktop and mobile client for Jellyfin
+- [avdept/JellyBoxPlayer](https://github.com/avdept/JellyBoxPlayer) - Native desktop and mobile music client for Jellyfin
 - [bilguunint/movieapp](https://github.com/bilguunint/movieapp) - Flutter Movie app using rest api, bloc pattern
 - [The-ring-io/flutter_staggered_animations](https://github.com/The-ring-io/flutter_staggered_animations) - Easily add staggered animations to your ListView, GridView, Column and Row children.
 - [asjqkkkk/flutter-todos](https://github.com/asjqkkkk/flutter-todos) - 📝 one day list app created by flutter!
@@ -192,6 +192,7 @@
 
 ## Markdown 
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote
 
 ## Others 
@@ -200,7 +201,6 @@
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [ItIsMeCall911/Course-Piracy-Index](https://github.com/ItIsMeCall911/Course-Piracy-Index) - Course Piracy Index 🏴‍☠️
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [xeleh/on-telegram](https://github.com/xeleh/on-telegram) - A curated list of Telegram groups/channels. Enjoy!
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [DaringCuteSeal/plasma6-walls](https://github.com/DaringCuteSeal/plasma6-walls) - Plasma 6 Wallpapers Submission
