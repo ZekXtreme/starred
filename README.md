@@ -116,7 +116,7 @@
 - [joohoi/acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
-- [ybizeul/ybFeed](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images.
+- [ybizeul/ybFeed](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images and files.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [jayson-lennon/ztm-golang](https://github.com/jayson-lennon/ztm-golang) - Source files for the Go language course on zerotomastery.io
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
