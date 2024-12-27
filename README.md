@@ -26,6 +26,7 @@
 - [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Svelte](#svelte)
@@ -147,6 +148,8 @@
 
 ## JavaScript 
 
+- [furkanmavili/keep_clone](https://github.com/furkanmavili/keep_clone) - Google Keep's Clone
+- [TheNewC0der-24/Google-Keep-Clone](https://github.com/TheNewC0der-24/Google-Keep-Clone) - This project is a clone of Google Keep, a note-taking application developed by Google. It was built using React and Material UI
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
 - [getwud/wud](https://github.com/getwud/wud) - WUD (aka What's up Docker?) gets you notified when a new version of your Docker Container is available.
@@ -288,6 +291,10 @@
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 
+## Ruby 
+
+- [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
+
 ## Rust 
 
 - [mkaczanowski/pastebin](https://github.com/mkaczanowski/pastebin) - Simple, fast, standalone pastebin service
@@ -359,7 +366,7 @@
 ## Vue 
 
 - [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
-- [Kholid060/snapcode](https://github.com/Kholid060/snapcode) - Snippet code manager
+- [Kholid060/snippy](https://github.com/Kholid060/snippy) - Snippet manager
 - [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an Open Source self-hostable Pastebin.
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
