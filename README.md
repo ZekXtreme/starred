@@ -245,7 +245,7 @@
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [Akshay090/colab-cli](https://github.com/Akshay090/colab-cli) - ✨Experience better workflow with google colab, local jupyter notebooks and git
 - [advnpzn/Akinator-Bot](https://github.com/advnpzn/Akinator-Bot) - Telegram Bot for playing the Akinator guessing game.(Unofficial)
-- [Khayoon/Reddit-Crawler](https://github.com/Khayoon/Reddit-Crawler) - The "Reddit Image Crawler" is a Python script that facilitates the extraction and downloading of image and gifs URLs from a specified subreddit on Reddit. It also includes functionalities to download 
+- [Khayoon/Reddit-Crawler](https://github.com/Khayoon/Reddit-Crawler) - Made a meaningful contribution to this scraper
 - [developerrahulofficial/anime-notifier](https://github.com/developerrahulofficial/anime-notifier) - 
 - [SanketDG/batuli](https://github.com/SanketDG/batuli) - An utility IRC bot for ##testbot.
 - [mautrix/telegram](https://github.com/mautrix/telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
