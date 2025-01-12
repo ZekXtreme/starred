@@ -200,6 +200,7 @@
 
 ## Others 
 
+- [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - A collection of PocketBase community resources.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [ItIsMeCall911/Course-Piracy-Index](https://github.com/ItIsMeCall911/Course-Piracy-Index) - Course Piracy Index 🏴‍☠️
