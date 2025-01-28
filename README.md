@@ -152,7 +152,7 @@
 - [TheNewC0der-24/Google-Keep-Clone](https://github.com/TheNewC0der-24/Google-Keep-Clone) - This project is a clone of Google Keep, a note-taking application developed by Google. It was built using React and Material UI
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
 - [mrishab/google-photos-delete-tool](https://github.com/mrishab/google-photos-delete-tool) - Tool for deleting all photos from the Google Photos
-- [getwud/wud](https://github.com/getwud/wud) - WUD (aka What's up Docker?) gets you notified when a new version of your Docker Container is available.
+- [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
