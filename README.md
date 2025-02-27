@@ -126,6 +126,7 @@
 - [akshettrj/watgbridge](https://github.com/akshettrj/watgbridge) - A forwarder from WhatsApp to Telegram written in GoLang
 - [HirbodBehnam/RedditDownloaderBot](https://github.com/HirbodBehnam/RedditDownloaderBot) - A reddit downloader telegram bot
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 
 ## HTML 
@@ -180,7 +181,6 @@
 - [ngshiheng/paste-story](https://github.com/ngshiheng/paste-story) - A serverless Pastebin that allows users to share text content through a link
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [muan/discord-webhooks](https://github.com/muan/discord-webhooks) - A server processing webhook data from Heroku and passing them to Discord, deployed to Vercel.
-- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 
 ## Jupyter Notebook 
 
