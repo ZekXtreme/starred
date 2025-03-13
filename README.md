@@ -271,7 +271,7 @@
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [codingwithroby/FastAPI-The-Complete-Course](https://github.com/codingwithroby/FastAPI-The-Complete-Course) - 
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable email domains
-- [Nriver/trilium-py](https://github.com/Nriver/trilium-py) - A Python client for interacting with the API and ETAPI of Trilium Notes. 一个用于与Trilium Notes的API和ETAPI交互的Python客户端
+- [Nriver/trilium-py](https://github.com/Nriver/trilium-py) - Feature-rich Python client for interacting with the API and ETAPI of Trilium Notes. 用于与Trilium Notes的API和ETAPI交互的Python多功能客户端
 - [ArthureVarghese/Torrent-to-Magnet-Updated](https://github.com/ArthureVarghese/Torrent-to-Magnet-Updated) - A very simple Python 3 utility for converting .torrent files to magnet links
 - [nibrag/tg_torrents_converter](https://github.com/nibrag/tg_torrents_converter) - Telegram bots: Magnet to torrent and Torrent to magnet converter
 - [DanySK/torrent2magnet](https://github.com/DanySK/torrent2magnet) - A very simple Python 3 utility for converting .torrent files to magnet links
