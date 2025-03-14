@@ -145,7 +145,7 @@
 ## Java 
 
 - [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an Open Source self-hostable Pastebin.
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 
 ## JavaScript 
 
