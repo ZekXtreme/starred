@@ -7,6 +7,7 @@
 
 - [Astro](#astro)
 - [Batchfile](#batchfile)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -41,6 +42,10 @@
 
 - [kachurovskiy/VideoContextMenu](https://github.com/kachurovskiy/VideoContextMenu) - Common ffmpeg actions in Windows Explorer context menu
 - [Moodkiller/SendTo-rclone-GDrive](https://github.com/Moodkiller/SendTo-rclone-GDrive) - Right click on a folder / file and send it to your preconfigured rclone (GDrive) remote in Windows
+
+## Blade 
+
+- [mckenziearts/laravel-notify](https://github.com/mckenziearts/laravel-notify) - Flexible Flash notifications for Laravel
 
 ## C 
 
@@ -216,6 +221,7 @@
 
 ## PHP 
 
+- [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [hakanersu/iwatched](https://github.com/hakanersu/iwatched) - Track movies or tv shows you watched.
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
 - [Ahwxorg/Binternet](https://github.com/Ahwxorg/Binternet) - A custom Pinterest frontend, made in PHP.
