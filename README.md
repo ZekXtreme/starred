@@ -155,6 +155,7 @@
 
 ## JavaScript 
 
+- [broadwayinc/wysiwyg4all](https://github.com/broadwayinc/wysiwyg4all) - Free opensource minimal wysiwyg text editor library
 - [furkanmavili/keep_clone](https://github.com/furkanmavili/keep_clone) - Google Keep's Clone
 - [TheNewC0der-24/Google-Keep-Clone](https://github.com/TheNewC0der-24/Google-Keep-Clone) - This project is a clone of Google Keep, a note-taking application developed by Google. It was built using React and Material UI
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
@@ -234,6 +235,7 @@
 
 ## Python 
 
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [bernardolsp/nginx-manager-watcher](https://github.com/bernardolsp/nginx-manager-watcher) - 
 - [bob-discord-bot/bob](https://github.com/bob-discord-bot/bob) - a plug-n-play Discord chat bot
 - [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
@@ -306,6 +308,8 @@
 
 ## Rust 
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [mkaczanowski/pastebin](https://github.com/mkaczanowski/pastebin) - Simple, fast, standalone pastebin service
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [Proxtx/crontab_status](https://github.com/Proxtx/crontab_status) - Monitor your contab jobs. Get notified on failures
@@ -320,6 +324,7 @@
 
 ## Shell 
 
+- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please l
 - [buggsi/usenet-scripts](https://github.com/buggsi/usenet-scripts) - Usenet packing and posting scripts
 - [mxrch/golang-tools-install-script](https://github.com/mxrch/golang-tools-install-script) - Simple Bash script to automate Go language tools single user installation or even removal.
 - [Spearfoot/disk-burnin-and-testing](https://github.com/Spearfoot/disk-burnin-and-testing) - Shell script for burn-in and testing of new or re-purposed drives
@@ -376,7 +381,7 @@
 
 - [KeziahMoselle/export-github-stars](https://github.com/KeziahMoselle/export-github-stars) - View / Sort / Export your Starred repositories.
 - [Kholid060/snippy](https://github.com/Kholid060/snippy) - Snippet manager
-- [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an Open Source self-hostable Pastebin.
+- [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an feature-rich Open Source self-hostable Pastebin.
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
