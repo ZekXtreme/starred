@@ -332,7 +332,7 @@
 - [pixelb/scripts](https://github.com/pixelb/scripts) - scripts from pixelbeat.org
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [jdbean/github-api-bulk-transfer](https://github.com/jdbean/github-api-bulk-transfer) - A utility for transferring multiple GitHub repositories to a new owner.
-- [jetbalsa/smount-plus](https://github.com/jetbalsa/smount-plus) - a bash script to find all Google Team Drives you have access to and make a rclone mount of them all
+- [cyberbalsa/smount-plus](https://github.com/cyberbalsa/smount-plus) - a bash script to find all Google Team Drives you have access to and make a rclone mount of them all
 - [onedr0p/qbittorrent-prune](https://github.com/onedr0p/qbittorrent-prune) - Remove torrents from qBittorrent that are reported unregistered by a tracker
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -346,7 +346,7 @@
 
 ## Svelte 
 
-- [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
+- [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.
 - [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A jungle gym for thought with an API for the mind.
 - [MaximilianHeidenreich/SweetLink](https://github.com/MaximilianHeidenreich/SweetLink) - A lightweight but powerful URL shortener for Deta Space.
 - [crackhub-dev/gamesdrive-link-encrypter](https://github.com/crackhub-dev/gamesdrive-link-encrypter) - Encrypt links with base64 and provide a noob-friendly way to decrypt
