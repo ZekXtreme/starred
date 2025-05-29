@@ -140,7 +140,6 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [tomcritchlow/tomcritchlow.github.io](https://github.com/tomcritchlow/tomcritchlow.github.io) - Me. Learning to use Github and learning to live life.
 - [haxrob/obsidian-to-hugo-pages](https://github.com/haxrob/obsidian-to-hugo-pages) - Github workflow action that converts Obsidian notes to a static website hosted in Github pages
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [nelsontky/gh-pages-url-shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages.
 - [w3c/wai-about-wai](https://github.com/w3c/wai-about-wai) - 
 - [R4cc/Feedster](https://github.com/R4cc/Feedster) - A semi-minimal RSS reader written in ASP.NET Blazor
@@ -243,6 +242,7 @@
 - [subinps/InstaFeed](https://github.com/subinps/InstaFeed) - get your Instagram feeds on your telegram channel
 - [Dayhawk007/musicx](https://github.com/Dayhawk007/musicx) - A python script which downloads any song on your device just by the name of it
 - [cu/silicon](https://github.com/cu/silicon) - Silicon Notes, a web-based personal knowledge base with few frills
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [yasoob/intermediatePython](https://github.com/yasoob/intermediatePython) - 
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [rohankishore/Youtility](https://github.com/rohankishore/Youtility) - YouTube downloader tools built with PyQt6 and PyTube
