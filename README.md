@@ -324,7 +324,7 @@
 
 ## Shell 
 
-- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please l
+- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [buggsi/usenet-scripts](https://github.com/buggsi/usenet-scripts) - Usenet packing and posting scripts
 - [mxrch/golang-tools-install-script](https://github.com/mxrch/golang-tools-install-script) - Simple Bash script to automate Go language tools single user installation or even removal.
 - [Spearfoot/disk-burnin-and-testing](https://github.com/Spearfoot/disk-burnin-and-testing) - Shell script for burn-in and testing of new or re-purposed drives
