@@ -206,6 +206,7 @@
 ## Others 
 
 - [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - A collection of PocketBase community resources.
+- [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful books, wikis, websites and PKMs from markdown.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [ItIsMeCall911/Course-Piracy-Index](https://github.com/ItIsMeCall911/Course-Piracy-Index) - Course Piracy Index 🏴‍☠️
@@ -266,7 +267,7 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [sachin0raon/GdriveSearch-WebUI](https://github.com/sachin0raon/GdriveSearch-WebUI) - A simple web interface for searching files stored in your Google drives.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-- [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple.
+- [Owez/yark](https://github.com/Owez/yark) - OSINT for YouTube made simple.
 - [BC44/Release-Info-Creator](https://github.com/BC44/Release-Info-Creator) - Generates mediainfo and screenshots automatically given a video file
 - [hwkns/macguffin](https://github.com/hwkns/macguffin) - Automated tools for handling Scene and P2P film releases -- gather and verify metadata, take screenshots and upload them to an image host, create a .torrent file and upload it to a bittorrent tracker.
 - [kz26/dottorrent-gui](https://github.com/kz26/dottorrent-gui) - An advanced GUI torrent file creator with batch functionality, powered by PyQt and dottorrent
@@ -355,7 +356,6 @@
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [snypy/snypy-frontend](https://github.com/snypy/snypy-frontend) - Open source code snippet organizer for developers
-- [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful books, wikis, websites and PKMs from markdown.
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [NayamAmarshe/thiss.link](https://github.com/NayamAmarshe/thiss.link) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
