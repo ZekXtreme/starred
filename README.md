@@ -120,7 +120,7 @@
 - [pluja/blogo](https://github.com/pluja/blogo) - A lightweight blogging engine that backs itself up to Nostr!
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [joohoi/acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.
-- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [ybizeul/ybFeed](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images and files.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
