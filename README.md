@@ -236,7 +236,7 @@
 
 ## Python 
 
-- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/pdf/2507.02592
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [bernardolsp/nginx-manager-watcher](https://github.com/bernardolsp/nginx-manager-watcher) - 
 - [bob-discord-bot/bob](https://github.com/bob-discord-bot/bob) - a plug-n-play Discord chat bot
