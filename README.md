@@ -232,6 +232,7 @@
 
 ## PowerShell 
 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debl
 - [ThioJoe/youtube-dl-easy](https://github.com/ThioJoe/youtube-dl-easy) - Easy script for running youtube-dl with basic options
 
 ## Python 
@@ -313,6 +314,8 @@
 
 ## Rust 
 
+- [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [mkaczanowski/pastebin](https://github.com/mkaczanowski/pastebin) - Simple, fast, standalone pastebin service
@@ -358,6 +361,9 @@
 
 ## TypeScript 
 
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [redis-developer/redis-product-search](https://github.com/redis-developer/redis-product-search) - Visual and semantic vector similarity with Redis Stack, FastAPI, PyTorch and Huggingface.
+- [liriliri/rem](https://github.com/liriliri/rem) - Rclone desktop app
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
