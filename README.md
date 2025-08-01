@@ -208,6 +208,8 @@
 
 ## Others 
 
+- [achyutgyawali/EGov_FinalProj_NEABilling](https://github.com/achyutgyawali/EGov_FinalProj_NEABilling) - 
+- [contains-studio/agents](https://github.com/contains-studio/agents) - sharing current agents in use
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [benallfree/awesome-pocketbase](https://github.com/benallfree/awesome-pocketbase) - A collection of PocketBase community resources.
@@ -334,6 +336,7 @@
 
 ## Shell 
 
+- [overleaf/toolkit](https://github.com/overleaf/toolkit) - 
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [buggsi/usenet-scripts](https://github.com/buggsi/usenet-scripts) - Usenet packing and posting scripts
 - [mxrch/golang-tools-install-script](https://github.com/mxrch/golang-tools-install-script) - Simple Bash script to automate Go language tools single user installation or even removal.
