@@ -244,7 +244,7 @@
 - [videosdk-community/ai-telephony-demo](https://github.com/videosdk-community/ai-telephony-demo) - Build an AI Telephony Agent for Inbound and Outbound Calls
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
-- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper & WebWatcher https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592 https://arxiv.org/p
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data aggregator for humans and AI agents.
 - [bernardolsp/nginx-manager-watcher](https://github.com/bernardolsp/nginx-manager-watcher) - 
 - [bob-discord-bot/bob](https://github.com/bob-discord-bot/bob) - a plug-n-play Discord chat bot
