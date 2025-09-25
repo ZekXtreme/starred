@@ -208,6 +208,7 @@
 
 ## Others 
 
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [achyutgyawali/EGov_FinalProj_NEABilling](https://github.com/achyutgyawali/EGov_FinalProj_NEABilling) - 
 - [contains-studio/agents](https://github.com/contains-studio/agents) - sharing current agents in use
 - [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, i
