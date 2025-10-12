@@ -368,7 +368,7 @@
 
 ## TypeScript 
 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [redis-developer/redis-product-search](https://github.com/redis-developer/redis-product-search) - Visual and semantic vector similarity with Redis Stack, FastAPI, PyTorch and Huggingface.
 - [liriliri/rem](https://github.com/liriliri/rem) - Rclone desktop app
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
