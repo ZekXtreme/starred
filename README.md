@@ -360,7 +360,6 @@
 
 ## Svelte 
 
-- [hayase-app/ui](https://github.com/hayase-app/ui) - Formerly Miru. Torrent streaming made simple. Watch anime torrents, real-time with no waiting for downloads.
 - [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A jungle gym for thought with an API for the mind.
 - [MaximilianHeidenreich/SweetLink](https://github.com/MaximilianHeidenreich/SweetLink) - A lightweight but powerful URL shortener for Deta Space.
 - [crackhub-dev/gamesdrive-link-encrypter](https://github.com/crackhub-dev/gamesdrive-link-encrypter) - Encrypt links with base64 and provide a noob-friendly way to decrypt
