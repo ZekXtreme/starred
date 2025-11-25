@@ -154,7 +154,6 @@
 
 ## JavaScript 
 
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [broadwayinc/wysiwyg4all](https://github.com/broadwayinc/wysiwyg4all) - Free opensource minimal wysiwyg text editor library
 - [furkanmavili/keep_clone](https://github.com/furkanmavili/keep_clone) - Google Keep's Clone
 - [TheNewC0der-24/Google-Keep-Clone](https://github.com/TheNewC0der-24/Google-Keep-Clone) - This project is a clone of Google Keep, a note-taking application developed by Google. It was built using React and Material UI
@@ -370,6 +369,7 @@
 - [redis-developer/redis-product-search](https://github.com/redis-developer/redis-product-search) - Visual and semantic vector similarity with Redis Stack, FastAPI, PyTorch and Huggingface.
 - [liriliri/rem](https://github.com/liriliri/rem) - Rclone desktop app
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [bknd-io/bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, React Router, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
