@@ -1,4 +1,4 @@
-name: Backup and Reset Repo History
+name: Backup and Reset Repo History (CLI)
 
 on:
   workflow_dispatch: # manual trigger only
@@ -20,22 +20,30 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
 
+      # Install GitHub CLI
+      - name: Install GH CLI
+        run: |
+          sudo apt update
+          sudo apt install -y gh
+
       # Create a full history bundle
       - name: Create history bundle
         run: |
           BUNDLE_FILE="history-$(date +%F).bundle"
           git bundle create "$BUNDLE_FILE" --all
-          echo "Bundle created: $BUNDLE_FILE"
+          echo "BUNDLE_FILE=$BUNDLE_FILE" >> $GITHUB_ENV
+          gzip -c "$BUNDLE_FILE" > "$BUNDLE_FILE.gz"
+          echo "BUNDLE_FILE_GZ=${BUNDLE_FILE}.gz" >> $GITHUB_ENV
 
-      # Upload bundle to a GitHub Release
-      - name: Create GitHub Release with backup
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: "backup-$(date +%F)"
-          name: "Repo Backup $(date +%F)"
-          files: "history-*.bundle"
+      # Create GitHub Release and upload bundle
+      - name: Upload release via GH CLI
+        run: |
+          TAG_NAME="backup-$(date +%F)"
+          gh release create "$TAG_NAME" "$BUNDLE_FILE_GZ" \
+            --title "Repo Backup $(date +%F)" \
+            --notes "Full history backup"
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
+          GITHUB_TOKEN: ${{ github.token }}
 
       # Reset main branch to clean orphan commit
       - name: Reset main branch
