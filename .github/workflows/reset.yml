@@ -1,0 +1,48 @@
+name: Backup and Reset Repo History
+
+on:
+  workflow_dispatch: # manual trigger only
+
+jobs:
+  backup-and-reset:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout full history
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Configure Git
+      - name: Git config
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+      # Create a full history bundle
+      - name: Create history bundle
+        run: |
+          BUNDLE_FILE="history-$(date +%F).bundle"
+          git bundle create "$BUNDLE_FILE" --all
+          echo "Bundle created: $BUNDLE_FILE"
+
+      # Upload bundle to a GitHub Release
+      - name: Create GitHub Release with backup
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: "backup-$(date +%F)"
+          name: "Repo Backup $(date +%F)"
+          files: "history-*.bundle"
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+
+      # Reset main branch to clean orphan commit
+      - name: Reset main branch
+        run: |
+          git checkout --orphan main
+          git rm -rf .
+          echo "# Repo Reset on $(date)" > README.md
+          git add README.md
+          git commit -m "Reset repository history"
+          git push --force origin main
