@@ -114,6 +114,7 @@
 
 ## Go 
 
+- [neuralink/tsui](https://github.com/neuralink/tsui) - An (experimental) elegant TUI for configuring Tailscale.
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 - [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
 - [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use.
@@ -159,6 +160,8 @@
 
 ## JavaScript 
 
+- [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [windbirds/workers_examples](https://github.com/windbirds/workers_examples) - Cloudflare Workers
 - [knadh/tinyrouter.js](https://github.com/knadh/tinyrouter.js) - A tiny, zero-dependency lib for frontend routing and navigation on top of `window.history`
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
@@ -381,6 +384,8 @@
 
 ## TypeScript 
 
+- [NayamAmarshe/thiss.link](https://github.com/NayamAmarshe/thiss.link) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
+- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [irvanmalik48/paste](https://github.com/irvanmalik48/paste) - A pastebin clone made with React, Supabase, and Shiki
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [redis-developer/redis-product-search](https://github.com/redis-developer/redis-product-search) - Visual and semantic vector similarity with Redis Stack, FastAPI, PyTorch and Huggingface.
@@ -397,7 +402,6 @@
 - [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful markdown-based websites, docs wikis and PKMs.
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden) - 
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-- [NayamAmarshe/thiss.link](https://github.com/NayamAmarshe/thiss.link) - 🔥 MagLit - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support
 - [chamanbravo/upstat](https://github.com/chamanbravo/upstat) - 🟢 a simple open-source, self-hosted status monitoring tool
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [Infomaniak/kpaste](https://github.com/Infomaniak/kpaste) - Infomaniak paste
