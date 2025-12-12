@@ -254,6 +254,7 @@
 ## Python 
 
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives.
+- [videosdk-community/ai-telephony-demo](https://github.com/videosdk-community/ai-telephony-demo) - Build an AI Telephony Agent for Inbound and Outbound Calls
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 - [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
