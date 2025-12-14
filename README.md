@@ -301,7 +301,7 @@
 - [BC44/Release-Info-Creator](https://github.com/BC44/Release-Info-Creator) - Generates mediainfo and screenshots automatically given a video file
 - [hwkns/macguffin](https://github.com/hwkns/macguffin) - Automated tools for handling Scene and P2P film releases -- gather and verify metadata, take screenshots and upload them to an image host, create a .torrent file and upload it to a bittorrent tracker.
 - [kz26/dottorrent-gui](https://github.com/kz26/dottorrent-gui) - An advanced GUI torrent file creator with batch functionality, powered by PyQt and dottorrent
-- [teletips/PingAllBot-TeLeTiPs](https://github.com/teletips/PingAllBot-TeLeTiPs) - Powerful Telegram bot to get everyone's attention by mentioning all members in the chat. PingAll bot has some additional cool features and also it can work in channels. It's easy, fast and self deploy
+- [teletips/pingallbot-teletips](https://github.com/teletips/pingallbot-teletips) - Powerful Telegram bot to get everyone's attention by mentioning all members in the chat. PingAll bot has some additional cool features and also it can work in channels. It's easy, fast and self deploy
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [RemiRigal/Plex-Auto-Languages](https://github.com/RemiRigal/Plex-Auto-Languages) - Automated language selection for Plex TV Shows !
 - [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
