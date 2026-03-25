@@ -36,7 +36,7 @@
 
 ## Astro 
 
-- [evadecker/eva.town](https://github.com/evadecker/eva.town) - A digital garden by Eva Decker, design engineer.
+- [kydecker/ky.fyi](https://github.com/kydecker/ky.fyi) - A digital garden by Ky Decker, design engineer.
 
 ## Batchfile 
 
