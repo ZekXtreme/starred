@@ -130,6 +130,7 @@
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
+- [mautrix/telegram](https://github.com/mautrix/telegram) - A Matrix-Telegram puppeting bridge
 - [akshettrj/watgbridge](https://github.com/akshettrj/watgbridge) - A forwarder from WhatsApp to Telegram written in GoLang
 - [HirbodBehnam/RedditDownloaderBot](https://github.com/HirbodBehnam/RedditDownloaderBot) - A reddit downloader telegram bot
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
@@ -279,7 +280,6 @@
 - [Khayoon/Reddit-Crawler](https://github.com/Khayoon/Reddit-Crawler) - Made a meaningful contribution to this scraper
 - [developerrahulofficial/anime-notifier](https://github.com/developerrahulofficial/anime-notifier) - 
 - [SanketDG/batuli](https://github.com/SanketDG/batuli) - An utility IRC bot for ##testbot.
-- [mautrix/telegram](https://github.com/mautrix/telegram) - A Matrix-Telegram hybrid puppeting/relaybot bridge
 - [JohnDoee/autotorrent](https://github.com/JohnDoee/autotorrent) - Matches torrents with files and gets them seeded
 - [theirix/ptpimg-uploader](https://github.com/theirix/ptpimg-uploader) - Upload images to ptpimg
 - [kannibalox/PtpUploader](https://github.com/kannibalox/PtpUploader) - PtpUploader is a bot that automatically uploads releases to PTP.
