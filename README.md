@@ -123,7 +123,6 @@
 - [acme-dns/acme-dns](https://github.com/acme-dns/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
-- [ybizeul/ybFeed](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images and files.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [jayson-lennon/ztm-golang](https://github.com/jayson-lennon/ztm-golang) - Source files for the Go language course on zerotomastery.io
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
@@ -395,6 +394,7 @@
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
+- [ybizeul/ybFeed](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images and files.
 - [snypy/snypy-frontend](https://github.com/snypy/snypy-frontend) - Open source code snippet organizer for developers
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Publish markdown (and html) websites, docs, wikis and websites in seconds. Integrates with your AI.
