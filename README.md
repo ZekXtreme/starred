@@ -297,6 +297,7 @@
 - [breuleux/jurigged](https://github.com/breuleux/jurigged) - Hot reloading for Python
 - [guzmi89/qbittrclonebot](https://github.com/guzmi89/qbittrclonebot) - Qbittorrent + Rclone + Bot python-telegram
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
+- [lineageos-infra/fly-apps](https://github.com/lineageos-infra/fly-apps) - 
 - [codingwithroby/FastAPI-The-Complete-Course](https://github.com/codingwithroby/FastAPI-The-Complete-Course) - 
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable email domains
 - [Nriver/trilium-py](https://github.com/Nriver/trilium-py) - Feature-rich Python client for interacting with the API and ETAPI of Trilium Notes. 用于与Trilium Notes的API和ETAPI交互的Python多功能客户端
@@ -361,7 +362,6 @@
 - [Protektor-Desura/Archon](https://github.com/Protektor-Desura/Archon) - A Home Server for media streaming, game streaming, home automation and management.
 - [sam-6174/jellytin](https://github.com/sam-6174/jellytin) - 
 - [AppImageCommunity/pkg2appimage](https://github.com/AppImageCommunity/pkg2appimage) - Tool and recipes to convert existing deb packages to AppImage
-- [lineageos-infra/fly-apps](https://github.com/lineageos-infra/fly-apps) - 
 - [MattTennison/deploy-code-server](https://github.com/MattTennison/deploy-code-server) - Fork with Fly.io Support
 - [kotx/coder-fly](https://github.com/kotx/coder-fly) - Coder on Fly.io
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
