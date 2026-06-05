@@ -370,7 +370,6 @@
 
 - [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A structured knowledge layer in plain text.
 - [MaximilianHeidenreich/SweetLink](https://github.com/MaximilianHeidenreich/SweetLink) - A lightweight but powerful URL shortener for Deta Space.
-- [crackhub-dev/gamesdrive-link-encrypter](https://github.com/crackhub-dev/gamesdrive-link-encrypter) - Encrypt links with base64 and provide a noob-friendly way to decrypt
 
 ## TeX 
 
