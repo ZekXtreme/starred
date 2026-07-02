@@ -36,7 +36,7 @@
 
 ## Astro 
 
-- [kydecker/ky.fyi](https://github.com/kydecker/ky.fyi) - A digital garden by Ky Decker, design engineer.
+- [kydecker/ky.fyi](https://github.com/kydecker/ky.fyi) - My website :)
 
 ## Batchfile 
 
