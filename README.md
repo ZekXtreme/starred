@@ -264,7 +264,7 @@
 - [yasoob/intermediatePython](https://github.com/yasoob/intermediatePython) - 
 - [megadose/holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 - [rohankishore/Youtility](https://github.com/rohankishore/Youtility) - YouTube downloader tools built with PyQt6 and PyTube
-- [krypton-byte/neonize](https://github.com/krypton-byte/neonize) - whatsapp automation library, written in python
+- [krypton-byte/neonize](https://github.com/krypton-byte/neonize) - A high-performance Python SDK for building real-time WhatsApp applications with a Go-powered core, event-driven APIs, and production-ready reliability.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [gurland/telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete all your messages in groups / supergroups using this python script
 - [alcortazzo/telegram-saucenao](https://github.com/alcortazzo/telegram-saucenao) - Telegram bot for finding sources of anime images via SauceNao API
