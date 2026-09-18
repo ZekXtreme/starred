@@ -88,7 +88,7 @@
 - [rohan20/flutter-chat-app](https://github.com/rohan20/flutter-chat-app) - A chat app built on Flutter with firebase authentication and image sharing capability.
 - [burhanrashid52/WhatTodo](https://github.com/burhanrashid52/WhatTodo) - A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern. You can add a project, labels, and due-date to your task also you can sort your task on the ba
 - [LinwoodDev/Setonix](https://github.com/LinwoodDev/Setonix) - 🃏 Powerful, customizable, cross-platform, opensource table sandbox game
-- [avdept/JellyBoxPlayer](https://github.com/avdept/JellyBoxPlayer) - The best native desktop and mobile music player for Jellyfin and Emby
+- [avdept/JellyBoxPlayer](https://github.com/avdept/JellyBoxPlayer) - A native desktop and mobile music player for Jellyfin and Emby with spotify-like playlists.
 - [bilguunint/movieapp](https://github.com/bilguunint/movieapp) - Flutter Movie app using rest api, bloc pattern
 - [The-ring-io/flutter_staggered_animations](https://github.com/The-ring-io/flutter_staggered_animations) - Easily add staggered animations to your ListView, GridView, Column and Row children.
 - [asjqkkkk/flutter-todos](https://github.com/asjqkkkk/flutter-todos) - 📝 one day list app created by flutter!
@@ -238,6 +238,7 @@
 - [hakanersu/iwatched](https://github.com/hakanersu/iwatched) - Track movies or tv shows you watched.
 - [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
 - [Ahwxorg/Binternet](https://github.com/Ahwxorg/Binternet) - A custom Pinterest frontend, made in PHP.
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 
 ## PowerShell 
 
@@ -424,7 +425,6 @@
 - [Kholid060/snippy](https://github.com/Kholid060/snippy) - Snippet manager
 - [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an feature-rich Open Source self-hostable Pastebin.
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
-- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 
