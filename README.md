@@ -37,7 +37,7 @@
 ## Astro 
 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [kydecker/ky.fyi](https://github.com/kydecker/ky.fyi) - My website :)
+- [kydecker/ky.fyi](https://github.com/kydecker/ky.fyi) - It's my website.
 
 ## Batchfile 
 
