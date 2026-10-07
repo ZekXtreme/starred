@@ -36,7 +36,7 @@
 
 ## Astro 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 - [kydecker/ky.fyi](https://github.com/kydecker/ky.fyi) - It's my website.
 
 ## Batchfile 
@@ -367,7 +367,7 @@
 
 ## Svelte 
 
-- [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - A structured knowledge layer in plain text.
+- [wikibonsai/wikibonsai](https://github.com/wikibonsai/wikibonsai) - Context as a structured knowledge layer in plain text.
 - [MaximilianHeidenreich/SweetLink](https://github.com/MaximilianHeidenreich/SweetLink) - A lightweight but powerful URL shortener for Deta Space.
 
 ## TeX 
