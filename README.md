@@ -382,7 +382,7 @@
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [irvanmalik48/paste](https://github.com/irvanmalik48/paste) - A pastebin clone made with React, Supabase, and Shiki
 - [heismauri/dtiktok](https://github.com/heismauri/dtiktok) - An API to download TikTok videos without watermark
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [redis-developer/redis-product-search](https://github.com/redis-developer/redis-product-search) - Visual and semantic vector similarity with Redis Stack, FastAPI, PyTorch and Huggingface.
 - [liriliri/rem](https://github.com/liriliri/rem) - Rclone desktop app
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
