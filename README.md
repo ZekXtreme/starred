@@ -93,6 +93,7 @@
 - [The-ring-io/flutter_staggered_animations](https://github.com/The-ring-io/flutter_staggered_animations) - Easily add staggered animations to your ListView, GridView, Column and Row children.
 - [asjqkkkk/flutter-todos](https://github.com/asjqkkkk/flutter-todos) - 📝 one day list app created by flutter!
 - [roshanrahman/flutter-notes-app](https://github.com/roshanrahman/flutter-notes-app) - A notes taking app written in Flutter
+- [dart-lang/dart-pad](https://github.com/dart-lang/dart-pad) - An online Dart editor with support for console, web, and Flutter apps.
 
 ## Dockerfile 
 
@@ -169,7 +170,6 @@
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [Ilyas-Codes/eCourse](https://github.com/Ilyas-Codes/eCourse) - A self-hosted SPA to simplify course creation and management
 - [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
-- [dart-lang/dart-pad](https://github.com/dart-lang/dart-pad) - An online Dart editor with support for console, web, and Flutter apps.
 - [surishortlink/suri](https://github.com/surishortlink/suri) - Your own short links as an easily deployed static site
 - [TannerReynolds/ShareX-Upload-Server](https://github.com/TannerReynolds/ShareX-Upload-Server) - AKA ShareS - Feature full & Stable ShareX and file server in node. Includes images, videos, code, text, markdown rendering, password protected uploads, logging via discord, administration through Disc
 - [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
@@ -236,7 +236,7 @@
 - [mckenziearts/laravel-notify](https://github.com/mckenziearts/laravel-notify) - Flexible Flash notifications for Laravel
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [hakanersu/iwatched](https://github.com/hakanersu/iwatched) - Track movies or tv shows you watched.
-- [leepeuker/movary](https://github.com/leepeuker/movary) - Self hosted web app to track and rate your watched movies
+- [leepeuker/movary](https://github.com/leepeuker/movary) - A self-hosted web app for tracking, rating, and exploring your movie watch history.
 - [Ahwxorg/Binternet](https://github.com/Ahwxorg/Binternet) - A custom Pinterest frontend, made in PHP. Blocking anything flagged as GenAI by default.
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 
