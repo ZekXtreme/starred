@@ -36,7 +36,6 @@
 
 ## Astro 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [kydecker/ky.fyi](https://github.com/kydecker/ky.fyi) - It's my website.
 
 ## Batchfile 
@@ -88,7 +87,7 @@
 - [rohan20/flutter-chat-app](https://github.com/rohan20/flutter-chat-app) - A chat app built on Flutter with firebase authentication and image sharing capability.
 - [burhanrashid52/WhatTodo](https://github.com/burhanrashid52/WhatTodo) - A Simple Todo app design in Flutter to keep track of your task on daily basis. Its build on BLoC Pattern. You can add a project, labels, and due-date to your task also you can sort your task on the ba
 - [LinwoodDev/Setonix](https://github.com/LinwoodDev/Setonix) - 🃏 Powerful, customizable, cross-platform, opensource table sandbox game
-- [avdept/JellyBoxPlayer](https://github.com/avdept/JellyBoxPlayer) - A native desktop and mobile music player for Jellyfin and Emby with spotify-like playlists, playback handoff between devices, Carplay and Android Auto
+- [avdept/JellyBoxPlayer](https://github.com/avdept/JellyBoxPlayer) - Native music player for Navidrome, Jellyfin and Emby on iOS, Android, macOS, Windows and Linux. CarPlay, Android Auto, offline downloads, casting.
 - [bilguunint/movieapp](https://github.com/bilguunint/movieapp) - Flutter Movie app using rest api, bloc pattern
 - [The-ring-io/flutter_staggered_animations](https://github.com/The-ring-io/flutter_staggered_animations) - Easily add staggered animations to your ListView, GridView, Column and Row children.
 - [asjqkkkk/flutter-todos](https://github.com/asjqkkkk/flutter-todos) - 📝 one day list app created by flutter!
@@ -390,6 +389,7 @@
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [bknd-io/bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, React Router, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 - [broadwayinc/wysiwyg4all](https://github.com/broadwayinc/wysiwyg4all) - Free opensource minimal wysiwyg text editor library
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [hikerpig/pintora](https://github.com/hikerpig/pintora) - An extensible text-to-diagrams library that works in both browser and node.js
 - [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker) - Self hosted media tracker for movies, tv shows, video games, books and audiobooks
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
